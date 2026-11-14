@@ -1,0 +1,4 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {createDemo,demoView,demoMutate} from '../lib/frontend-demo.ts';
+test('browser demo supplies all research pages and isolates edits',()=>{const db=createDemo();const view=demoView(db);assert.equal(view.trades.length,7);assert.equal(view.notes.length,3);assert.equal(view.research.series.length,3);assert.ok(view.comparison.baseline.length);const added=demoMutate(db,{action:'note.save',reason:'test',expectation:'',review:''},1);assert.equal(added.db.notes.length,4);assert.equal(db.notes.length,3);const account=demoMutate(db,{action:'account.create',name:'new'},1);assert.equal(demoView(account.db,account.id).trades.length,0);assert.throws(()=>demoMutate(db,{action:'flow.save',date:'2026-08-17',kind:'withdrawal',amountMinor:999999999,memo:''},1));});

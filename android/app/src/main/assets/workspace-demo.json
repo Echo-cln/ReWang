@@ -1,0 +1,7255 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "回望课程演示 · 合成数据"
+    }
+  ],
+  "instruments": [
+    {
+      "symbol": "DEMO_A",
+      "name": "山岚指数（演示）",
+      "base": 10200,
+      "currency": "USD",
+      "source": "SYNTHETIC_DEMO",
+      "data_kind": "synthetic",
+      "price_type": "synthetic_close"
+    },
+    {
+      "symbol": "DEMO_B",
+      "name": "潮汐稳健（演示）",
+      "base": 8800,
+      "currency": "USD",
+      "source": "SYNTHETIC_DEMO",
+      "data_kind": "synthetic",
+      "price_type": "synthetic_close"
+    },
+    {
+      "symbol": "DEMO_C",
+      "name": "星河成长（演示）",
+      "base": 13500,
+      "currency": "USD",
+      "source": "SYNTHETIC_DEMO",
+      "data_kind": "synthetic",
+      "price_type": "synthetic_close"
+    }
+  ],
+  "prices": [
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-17",
+      "close_minor": 10200,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-18",
+      "close_minor": 10343,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-19",
+      "close_minor": 10447,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-20",
+      "close_minor": 10493,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-21",
+      "close_minor": 10486,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-24",
+      "close_minor": 10454,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-25",
+      "close_minor": 10428,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-26",
+      "close_minor": 10425,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-27",
+      "close_minor": 10437,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-28",
+      "close_minor": 10436,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-08-31",
+      "close_minor": 10396,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-01",
+      "close_minor": 10304,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-02",
+      "close_minor": 10176,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-03",
+      "close_minor": 10048,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-04",
+      "close_minor": 9959,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-07",
+      "close_minor": 9934,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-08",
+      "close_minor": 9970,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-09",
+      "close_minor": 10042,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-10",
+      "close_minor": 10113,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-11",
+      "close_minor": 10162,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-14",
+      "close_minor": 10186,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-15",
+      "close_minor": 10207,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-16",
+      "close_minor": 10254,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-17",
+      "close_minor": 10342,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-18",
+      "close_minor": 10462,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-21",
+      "close_minor": 10584,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-22",
+      "close_minor": 10669,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-23",
+      "close_minor": 10688,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-24",
+      "close_minor": 10641,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-25",
+      "close_minor": 10552,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-28",
+      "close_minor": 10457,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-29",
+      "close_minor": 10388,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-09-30",
+      "close_minor": 10353,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-01",
+      "close_minor": 10336,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-02",
+      "close_minor": 10310,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-05",
+      "close_minor": 10254,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-06",
+      "close_minor": 10169,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-07",
+      "close_minor": 10081,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-08",
+      "close_minor": 10025,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-09",
+      "close_minor": 10031,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-12",
+      "close_minor": 10106,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-13",
+      "close_minor": 10226,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-14",
+      "close_minor": 10355,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-15",
+      "close_minor": 10455,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-16",
+      "close_minor": 10513,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-19",
+      "close_minor": 10536,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-20",
+      "close_minor": 10553,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-21",
+      "close_minor": 10589,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-22",
+      "close_minor": 10649,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-23",
+      "close_minor": 10717,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-26",
+      "close_minor": 10760,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-27",
+      "close_minor": 10748,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-28",
+      "close_minor": 10670,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-29",
+      "close_minor": 10546,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-10-30",
+      "close_minor": 10412,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-11-02",
+      "close_minor": 10308,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-11-03",
+      "close_minor": 10256,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-11-04",
+      "close_minor": 10251,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-11-05",
+      "close_minor": 10267,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_A",
+      "price_date": "2026-11-06",
+      "close_minor": 10276,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-17",
+      "close_minor": 9067,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-18",
+      "close_minor": 9114,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-19",
+      "close_minor": 9092,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-20",
+      "close_minor": 9015,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-21",
+      "close_minor": 8918,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-24",
+      "close_minor": 8833,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-25",
+      "close_minor": 8776,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-26",
+      "close_minor": 8745,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-27",
+      "close_minor": 8721,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-28",
+      "close_minor": 8687,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-08-31",
+      "close_minor": 8642,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-01",
+      "close_minor": 8602,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-02",
+      "close_minor": 8595,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-03",
+      "close_minor": 8642,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-04",
+      "close_minor": 8748,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-07",
+      "close_minor": 8888,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-08",
+      "close_minor": 9026,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-09",
+      "close_minor": 9122,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-10",
+      "close_minor": 9155,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-11",
+      "close_minor": 9129,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-14",
+      "close_minor": 9068,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-15",
+      "close_minor": 9003,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-16",
+      "close_minor": 8953,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-17",
+      "close_minor": 8919,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-18",
+      "close_minor": 8886,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-21",
+      "close_minor": 8837,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-22",
+      "close_minor": 8765,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-23",
+      "close_minor": 8686,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-24",
+      "close_minor": 8630,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-25",
+      "close_minor": 8626,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-28",
+      "close_minor": 8690,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-29",
+      "close_minor": 8810,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-09-30",
+      "close_minor": 8952,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-01",
+      "close_minor": 9077,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-02",
+      "close_minor": 9154,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-05",
+      "close_minor": 9176,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-06",
+      "close_minor": 9158,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-07",
+      "close_minor": 9126,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-08",
+      "close_minor": 9100,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-09",
+      "close_minor": 9084,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-12",
+      "close_minor": 9063,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-13",
+      "close_minor": 9018,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-14",
+      "close_minor": 8937,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-15",
+      "close_minor": 8833,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-16",
+      "close_minor": 8733,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-19",
+      "close_minor": 8674,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-20",
+      "close_minor": 8682,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-21",
+      "close_minor": 8758,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-22",
+      "close_minor": 8880,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-23",
+      "close_minor": 9007,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-26",
+      "close_minor": 9108,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-27",
+      "close_minor": 9165,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-28",
+      "close_minor": 9185,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-29",
+      "close_minor": 9189,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-10-30",
+      "close_minor": 9196,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-11-02",
+      "close_minor": 9210,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-11-03",
+      "close_minor": 9218,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-11-04",
+      "close_minor": 9198,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-11-05",
+      "close_minor": 9132,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_B",
+      "price_date": "2026-11-06",
+      "close_minor": 9023,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-17",
+      "close_minor": 13942,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-18",
+      "close_minor": 13801,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-19",
+      "close_minor": 13593,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-20",
+      "close_minor": 13389,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-21",
+      "close_minor": 13252,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-24",
+      "close_minor": 13209,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-25",
+      "close_minor": 13250,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-26",
+      "close_minor": 13339,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-27",
+      "close_minor": 13440,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-28",
+      "close_minor": 13533,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-08-31",
+      "close_minor": 13626,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-01",
+      "close_minor": 13733,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-02",
+      "close_minor": 13864,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-03",
+      "close_minor": 14001,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-04",
+      "close_minor": 14104,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-07",
+      "close_minor": 14125,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-08",
+      "close_minor": 14040,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-09",
+      "close_minor": 13858,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-10",
+      "close_minor": 13634,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-11",
+      "close_minor": 13440,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-14",
+      "close_minor": 13341,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-15",
+      "close_minor": 13366,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-16",
+      "close_minor": 13498,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-17",
+      "close_minor": 13687,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-18",
+      "close_minor": 13872,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-21",
+      "close_minor": 14013,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-22",
+      "close_minor": 14101,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-23",
+      "close_minor": 14150,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-24",
+      "close_minor": 14184,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-25",
+      "close_minor": 14210,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-28",
+      "close_minor": 14215,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-29",
+      "close_minor": 14172,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-09-30",
+      "close_minor": 14063,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-01",
+      "close_minor": 13897,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-02",
+      "close_minor": 13716,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-05",
+      "close_minor": 13584,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-06",
+      "close_minor": 13557,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-07",
+      "close_minor": 13658,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-08",
+      "close_minor": 13863,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-09",
+      "close_minor": 14111,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-12",
+      "close_minor": 14330,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-13",
+      "close_minor": 14465,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-14",
+      "close_minor": 14501,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-15",
+      "close_minor": 14459,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-16",
+      "close_minor": 14381,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-19",
+      "close_minor": 14301,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-20",
+      "close_minor": 14233,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-21",
+      "close_minor": 14167,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-22",
+      "close_minor": 14087,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-23",
+      "close_minor": 13991,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-26",
+      "close_minor": 13901,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-27",
+      "close_minor": 13860,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-28",
+      "close_minor": 13908,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-29",
+      "close_minor": 14060,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-10-30",
+      "close_minor": 14293,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-11-02",
+      "close_minor": 14542,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-11-03",
+      "close_minor": 14736,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-11-04",
+      "close_minor": 14819,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-11-05",
+      "close_minor": 14777,
+      "source": "SYNTHETIC_DEMO"
+    },
+    {
+      "symbol": "DEMO_C",
+      "price_date": "2026-11-06",
+      "close_minor": 14641,
+      "source": "SYNTHETIC_DEMO"
+    }
+  ],
+  "flows": [
+    {
+      "effective_date": "2026-08-17",
+      "kind": "deposit",
+      "amount_minor": 1500000,
+      "memo": "课程演示：初始入金",
+      "sequence": 1,
+      "id": 1,
+      "account_id": 1,
+      "created_at": "2026-08-17"
+    },
+    {
+      "effective_date": "2026-09-07",
+      "kind": "deposit",
+      "amount_minor": 400000,
+      "memo": "课程演示：追加资金",
+      "sequence": 4,
+      "id": 2,
+      "account_id": 1,
+      "created_at": "2026-09-07"
+    },
+    {
+      "effective_date": "2026-10-05",
+      "kind": "withdrawal",
+      "amount_minor": 100000,
+      "memo": "课程演示：生活费出金",
+      "sequence": 7,
+      "id": 3,
+      "account_id": 1,
+      "created_at": "2026-10-05"
+    }
+  ],
+  "trades": [
+    {
+      "effective_date": "2026-08-17",
+      "symbol": "DEMO_A",
+      "side": "buy",
+      "quantity": 45,
+      "price_minor": 10200,
+      "fee_minor": 459,
+      "sequence": 2,
+      "id": 1,
+      "account_id": 1,
+      "created_at": "2026-08-17"
+    },
+    {
+      "effective_date": "2026-08-26",
+      "symbol": "DEMO_B",
+      "side": "buy",
+      "quantity": 35,
+      "price_minor": 8745,
+      "fee_minor": 306,
+      "sequence": 3,
+      "id": 2,
+      "account_id": 1,
+      "created_at": "2026-08-26"
+    },
+    {
+      "effective_date": "2026-09-07",
+      "symbol": "DEMO_C",
+      "side": "buy",
+      "quantity": 22,
+      "price_minor": 14125,
+      "fee_minor": 311,
+      "sequence": 5,
+      "id": 3,
+      "account_id": 1,
+      "created_at": "2026-09-07"
+    },
+    {
+      "effective_date": "2026-09-24",
+      "symbol": "DEMO_A",
+      "side": "sell",
+      "quantity": 10,
+      "price_minor": 10641,
+      "fee_minor": 106,
+      "sequence": 6,
+      "id": 4,
+      "account_id": 1,
+      "created_at": "2026-09-24"
+    },
+    {
+      "effective_date": "2026-10-14",
+      "symbol": "DEMO_B",
+      "side": "buy",
+      "quantity": 20,
+      "price_minor": 8937,
+      "fee_minor": 179,
+      "sequence": 8,
+      "id": 5,
+      "account_id": 1,
+      "created_at": "2026-10-14"
+    },
+    {
+      "effective_date": "2026-10-27",
+      "symbol": "DEMO_C",
+      "side": "sell",
+      "quantity": 8,
+      "price_minor": 13860,
+      "fee_minor": 111,
+      "sequence": 9,
+      "id": 6,
+      "account_id": 1,
+      "created_at": "2026-10-27"
+    },
+    {
+      "effective_date": "2026-11-04",
+      "symbol": "DEMO_A",
+      "side": "buy",
+      "quantity": 10,
+      "price_minor": 10251,
+      "fee_minor": 103,
+      "sequence": 10,
+      "id": 7,
+      "account_id": 1,
+      "created_at": "2026-11-04"
+    }
+  ],
+  "notes": [
+    {
+      "tradeSequence": 2,
+      "createdAt": "2026-08-17T10:30:00.000Z",
+      "reviewedAt": "2026-09-24T17:00:00.000Z",
+      "reason": "初始入金后没有一次性投入全部资金；先买入山岚指数，保留现金以观察后续波动。",
+      "expectation": "检验分批建仓与一次性投入的差别；若价格下行，不以单日变化替代长期判断。",
+      "review": "第 28 个报价日卖出一部分仓位用于控制暴露。该结果只说明这条合成路径的历史变化，不能证明策略未来有效。",
+      "id": 1,
+      "account_id": 1,
+      "trade_id": 1,
+      "created_at": "2026-08-17T10:30:00.000Z",
+      "reviewed_at": "2026-09-24T17:00:00.000Z"
+    },
+    {
+      "tradeSequence": 5,
+      "createdAt": "2026-09-07T11:00:00.000Z",
+      "reviewedAt": null,
+      "reason": "新增资金后配置第三组演示标的，观察组合波动与单一标的的差异。",
+      "expectation": "后续比较实际持仓与固定规则基准；暂不把短期上涨视为模型预测能力。",
+      "review": "",
+      "id": 2,
+      "account_id": 1,
+      "trade_id": 3,
+      "created_at": "2026-09-07T11:00:00.000Z",
+      "reviewed_at": null
+    },
+    {
+      "tradeSequence": null,
+      "createdAt": "2026-10-05T15:00:00.000Z",
+      "reviewedAt": "2026-10-28T17:00:00.000Z",
+      "reason": "提出 1,000 美元用于模拟现实现金需求，避免把账户收益与新增资金混淆。",
+      "expectation": "出金后仍保留多标的持仓，观察净投入与总资产的相对变化。",
+      "review": "复盘时将同一笔出金应用于两条路径，并按各自的持仓与现金重新估值。",
+      "id": 3,
+      "account_id": 1,
+      "trade_id": null,
+      "created_at": "2026-10-05T15:00:00.000Z",
+      "reviewed_at": "2026-10-28T17:00:00.000Z"
+    }
+  ],
+  "nextId": 100,
+  "selected": {
+    "id": 1,
+    "name": "回望课程演示 · 合成数据"
+  },
+  "user": {
+    "name": "演示访客"
+  },
+  "dataKind": "synthetic",
+  "asOf": "2026-11-06",
+  "methodVersion": "1.0",
+  "ledger": [
+    {
+      "date": "2026-08-17",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1499541,
+      "pnlMinor": -459,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10200,
+          "priceDate": "2026-08-17"
+        },
+        "DEMO_B": {
+          "closeMinor": 9067,
+          "priceDate": "2026-08-17"
+        },
+        "DEMO_C": {
+          "closeMinor": 13942,
+          "priceDate": "2026-08-17"
+        }
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1505976,
+      "pnlMinor": 5976,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10343,
+          "priceDate": "2026-08-18"
+        },
+        "DEMO_B": {
+          "closeMinor": 9114,
+          "priceDate": "2026-08-18"
+        },
+        "DEMO_C": {
+          "closeMinor": 13801,
+          "priceDate": "2026-08-18"
+        }
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1510656,
+      "pnlMinor": 10656,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10447,
+          "priceDate": "2026-08-19"
+        },
+        "DEMO_B": {
+          "closeMinor": 9092,
+          "priceDate": "2026-08-19"
+        },
+        "DEMO_C": {
+          "closeMinor": 13593,
+          "priceDate": "2026-08-19"
+        }
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1512726,
+      "pnlMinor": 12726,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10493,
+          "priceDate": "2026-08-20"
+        },
+        "DEMO_B": {
+          "closeMinor": 9015,
+          "priceDate": "2026-08-20"
+        },
+        "DEMO_C": {
+          "closeMinor": 13389,
+          "priceDate": "2026-08-20"
+        }
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1512411,
+      "pnlMinor": 12411,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10486,
+          "priceDate": "2026-08-21"
+        },
+        "DEMO_B": {
+          "closeMinor": 8918,
+          "priceDate": "2026-08-21"
+        },
+        "DEMO_C": {
+          "closeMinor": 13252,
+          "priceDate": "2026-08-21"
+        }
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1510971,
+      "pnlMinor": 10971,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10454,
+          "priceDate": "2026-08-24"
+        },
+        "DEMO_B": {
+          "closeMinor": 8833,
+          "priceDate": "2026-08-24"
+        },
+        "DEMO_C": {
+          "closeMinor": 13209,
+          "priceDate": "2026-08-24"
+        }
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "cashMinor": 1040541,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1509801,
+      "pnlMinor": 9801,
+      "holdings": {
+        "DEMO_A": 45
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10428,
+          "priceDate": "2026-08-25"
+        },
+        "DEMO_B": {
+          "closeMinor": 8776,
+          "priceDate": "2026-08-25"
+        },
+        "DEMO_C": {
+          "closeMinor": 13250,
+          "priceDate": "2026-08-25"
+        }
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1509360,
+      "pnlMinor": 9360,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10425,
+          "priceDate": "2026-08-26"
+        },
+        "DEMO_B": {
+          "closeMinor": 8745,
+          "priceDate": "2026-08-26"
+        },
+        "DEMO_C": {
+          "closeMinor": 13339,
+          "priceDate": "2026-08-26"
+        }
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1509060,
+      "pnlMinor": 9060,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10437,
+          "priceDate": "2026-08-27"
+        },
+        "DEMO_B": {
+          "closeMinor": 8721,
+          "priceDate": "2026-08-27"
+        },
+        "DEMO_C": {
+          "closeMinor": 13440,
+          "priceDate": "2026-08-27"
+        }
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1507825,
+      "pnlMinor": 7825,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10436,
+          "priceDate": "2026-08-28"
+        },
+        "DEMO_B": {
+          "closeMinor": 8687,
+          "priceDate": "2026-08-28"
+        },
+        "DEMO_C": {
+          "closeMinor": 13533,
+          "priceDate": "2026-08-28"
+        }
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1504450,
+      "pnlMinor": 4450,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10396,
+          "priceDate": "2026-08-31"
+        },
+        "DEMO_B": {
+          "closeMinor": 8642,
+          "priceDate": "2026-08-31"
+        },
+        "DEMO_C": {
+          "closeMinor": 13626,
+          "priceDate": "2026-08-31"
+        }
+      }
+    },
+    {
+      "date": "2026-09-01",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1498910,
+      "pnlMinor": -1090,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10304,
+          "priceDate": "2026-09-01"
+        },
+        "DEMO_B": {
+          "closeMinor": 8602,
+          "priceDate": "2026-09-01"
+        },
+        "DEMO_C": {
+          "closeMinor": 13733,
+          "priceDate": "2026-09-01"
+        }
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1492905,
+      "pnlMinor": -7095,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10176,
+          "priceDate": "2026-09-02"
+        },
+        "DEMO_B": {
+          "closeMinor": 8595,
+          "priceDate": "2026-09-02"
+        },
+        "DEMO_C": {
+          "closeMinor": 13864,
+          "priceDate": "2026-09-02"
+        }
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1488790,
+      "pnlMinor": -11210,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10048,
+          "priceDate": "2026-09-03"
+        },
+        "DEMO_B": {
+          "closeMinor": 8642,
+          "priceDate": "2026-09-03"
+        },
+        "DEMO_C": {
+          "closeMinor": 14001,
+          "priceDate": "2026-09-03"
+        }
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "cashMinor": 734160,
+      "netContributionsMinor": 1500000,
+      "assetsMinor": 1488495,
+      "pnlMinor": -11505,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 9959,
+          "priceDate": "2026-09-04"
+        },
+        "DEMO_B": {
+          "closeMinor": 8748,
+          "priceDate": "2026-09-04"
+        },
+        "DEMO_C": {
+          "closeMinor": 14104,
+          "priceDate": "2026-09-04"
+        }
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1891959,
+      "pnlMinor": -8041,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 9934,
+          "priceDate": "2026-09-07"
+        },
+        "DEMO_B": {
+          "closeMinor": 8888,
+          "priceDate": "2026-09-07"
+        },
+        "DEMO_C": {
+          "closeMinor": 14125,
+          "priceDate": "2026-09-07"
+        }
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1896539,
+      "pnlMinor": -3461,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 9970,
+          "priceDate": "2026-09-08"
+        },
+        "DEMO_B": {
+          "closeMinor": 9026,
+          "priceDate": "2026-09-08"
+        },
+        "DEMO_C": {
+          "closeMinor": 14040,
+          "priceDate": "2026-09-08"
+        }
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1899135,
+      "pnlMinor": -865,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10042,
+          "priceDate": "2026-09-09"
+        },
+        "DEMO_B": {
+          "closeMinor": 9122,
+          "priceDate": "2026-09-09"
+        },
+        "DEMO_C": {
+          "closeMinor": 13858,
+          "priceDate": "2026-09-09"
+        }
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1898557,
+      "pnlMinor": -1443,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10113,
+          "priceDate": "2026-09-10"
+        },
+        "DEMO_B": {
+          "closeMinor": 9155,
+          "priceDate": "2026-09-10"
+        },
+        "DEMO_C": {
+          "closeMinor": 13634,
+          "priceDate": "2026-09-10"
+        }
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1895584,
+      "pnlMinor": -4416,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10162,
+          "priceDate": "2026-09-11"
+        },
+        "DEMO_B": {
+          "closeMinor": 9129,
+          "priceDate": "2026-09-11"
+        },
+        "DEMO_C": {
+          "closeMinor": 13440,
+          "priceDate": "2026-09-11"
+        }
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1892351,
+      "pnlMinor": -7649,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10186,
+          "priceDate": "2026-09-14"
+        },
+        "DEMO_B": {
+          "closeMinor": 9068,
+          "priceDate": "2026-09-14"
+        },
+        "DEMO_C": {
+          "closeMinor": 13341,
+          "priceDate": "2026-09-14"
+        }
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1891571,
+      "pnlMinor": -8429,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10207,
+          "priceDate": "2026-09-15"
+        },
+        "DEMO_B": {
+          "closeMinor": 9003,
+          "priceDate": "2026-09-15"
+        },
+        "DEMO_C": {
+          "closeMinor": 13366,
+          "priceDate": "2026-09-15"
+        }
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1894840,
+      "pnlMinor": -5160,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10254,
+          "priceDate": "2026-09-16"
+        },
+        "DEMO_B": {
+          "closeMinor": 8953,
+          "priceDate": "2026-09-16"
+        },
+        "DEMO_C": {
+          "closeMinor": 13498,
+          "priceDate": "2026-09-16"
+        }
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1901768,
+      "pnlMinor": 1768,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10342,
+          "priceDate": "2026-09-17"
+        },
+        "DEMO_B": {
+          "closeMinor": 8919,
+          "priceDate": "2026-09-17"
+        },
+        "DEMO_C": {
+          "closeMinor": 13687,
+          "priceDate": "2026-09-17"
+        }
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1910083,
+      "pnlMinor": 10083,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10462,
+          "priceDate": "2026-09-18"
+        },
+        "DEMO_B": {
+          "closeMinor": 8886,
+          "priceDate": "2026-09-18"
+        },
+        "DEMO_C": {
+          "closeMinor": 13872,
+          "priceDate": "2026-09-18"
+        }
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1916960,
+      "pnlMinor": 16960,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10584,
+          "priceDate": "2026-09-21"
+        },
+        "DEMO_B": {
+          "closeMinor": 8837,
+          "priceDate": "2026-09-21"
+        },
+        "DEMO_C": {
+          "closeMinor": 14013,
+          "priceDate": "2026-09-21"
+        }
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1920201,
+      "pnlMinor": 20201,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10669,
+          "priceDate": "2026-09-22"
+        },
+        "DEMO_B": {
+          "closeMinor": 8765,
+          "priceDate": "2026-09-22"
+        },
+        "DEMO_C": {
+          "closeMinor": 14101,
+          "priceDate": "2026-09-22"
+        }
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "cashMinor": 823099,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1919369,
+      "pnlMinor": 19369,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10688,
+          "priceDate": "2026-09-23"
+        },
+        "DEMO_B": {
+          "closeMinor": 8686,
+          "priceDate": "2026-09-23"
+        },
+        "DEMO_C": {
+          "closeMinor": 14150,
+          "priceDate": "2026-09-23"
+        }
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1915936,
+      "pnlMinor": 15936,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10641,
+          "priceDate": "2026-09-24"
+        },
+        "DEMO_B": {
+          "closeMinor": 8630,
+          "priceDate": "2026-09-24"
+        },
+        "DEMO_C": {
+          "closeMinor": 14184,
+          "priceDate": "2026-09-24"
+        }
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1913253,
+      "pnlMinor": 13253,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10552,
+          "priceDate": "2026-09-25"
+        },
+        "DEMO_B": {
+          "closeMinor": 8626,
+          "priceDate": "2026-09-25"
+        },
+        "DEMO_C": {
+          "closeMinor": 14210,
+          "priceDate": "2026-09-25"
+        }
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1912278,
+      "pnlMinor": 12278,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10457,
+          "priceDate": "2026-09-28"
+        },
+        "DEMO_B": {
+          "closeMinor": 8690,
+          "priceDate": "2026-09-28"
+        },
+        "DEMO_C": {
+          "closeMinor": 14215,
+          "priceDate": "2026-09-28"
+        }
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1913117,
+      "pnlMinor": 13117,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10388,
+          "priceDate": "2026-09-29"
+        },
+        "DEMO_B": {
+          "closeMinor": 8810,
+          "priceDate": "2026-09-29"
+        },
+        "DEMO_C": {
+          "closeMinor": 14172,
+          "priceDate": "2026-09-29"
+        }
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1914464,
+      "pnlMinor": 14464,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10353,
+          "priceDate": "2026-09-30"
+        },
+        "DEMO_B": {
+          "closeMinor": 8952,
+          "priceDate": "2026-09-30"
+        },
+        "DEMO_C": {
+          "closeMinor": 14063,
+          "priceDate": "2026-09-30"
+        }
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1914592,
+      "pnlMinor": 14592,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10336,
+          "priceDate": "2026-10-01"
+        },
+        "DEMO_B": {
+          "closeMinor": 9077,
+          "priceDate": "2026-10-01"
+        },
+        "DEMO_C": {
+          "closeMinor": 13897,
+          "priceDate": "2026-10-01"
+        }
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "cashMinor": 929403,
+      "netContributionsMinor": 1900000,
+      "assetsMinor": 1912395,
+      "pnlMinor": 12395,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10310,
+          "priceDate": "2026-10-02"
+        },
+        "DEMO_B": {
+          "closeMinor": 9154,
+          "priceDate": "2026-10-02"
+        },
+        "DEMO_C": {
+          "closeMinor": 13716,
+          "priceDate": "2026-10-02"
+        }
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1808301,
+      "pnlMinor": 8301,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10254,
+          "priceDate": "2026-10-05"
+        },
+        "DEMO_B": {
+          "closeMinor": 9176,
+          "priceDate": "2026-10-05"
+        },
+        "DEMO_C": {
+          "closeMinor": 13584,
+          "priceDate": "2026-10-05"
+        }
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1804102,
+      "pnlMinor": 4102,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10169,
+          "priceDate": "2026-10-06"
+        },
+        "DEMO_B": {
+          "closeMinor": 9158,
+          "priceDate": "2026-10-06"
+        },
+        "DEMO_C": {
+          "closeMinor": 13557,
+          "priceDate": "2026-10-06"
+        }
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1802124,
+      "pnlMinor": 2124,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10081,
+          "priceDate": "2026-10-07"
+        },
+        "DEMO_B": {
+          "closeMinor": 9126,
+          "priceDate": "2026-10-07"
+        },
+        "DEMO_C": {
+          "closeMinor": 13658,
+          "priceDate": "2026-10-07"
+        }
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1803764,
+      "pnlMinor": 3764,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10025,
+          "priceDate": "2026-10-08"
+        },
+        "DEMO_B": {
+          "closeMinor": 9100,
+          "priceDate": "2026-10-08"
+        },
+        "DEMO_C": {
+          "closeMinor": 13863,
+          "priceDate": "2026-10-08"
+        }
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1808870,
+      "pnlMinor": 8870,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10031,
+          "priceDate": "2026-10-09"
+        },
+        "DEMO_B": {
+          "closeMinor": 9084,
+          "priceDate": "2026-10-09"
+        },
+        "DEMO_C": {
+          "closeMinor": 14111,
+          "priceDate": "2026-10-09"
+        }
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1815578,
+      "pnlMinor": 15578,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10106,
+          "priceDate": "2026-10-12"
+        },
+        "DEMO_B": {
+          "closeMinor": 9063,
+          "priceDate": "2026-10-12"
+        },
+        "DEMO_C": {
+          "closeMinor": 14330,
+          "priceDate": "2026-10-12"
+        }
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "cashMinor": 829403,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1821173,
+      "pnlMinor": 21173,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 35,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10226,
+          "priceDate": "2026-10-13"
+        },
+        "DEMO_B": {
+          "closeMinor": 9018,
+          "priceDate": "2026-10-13"
+        },
+        "DEMO_C": {
+          "closeMinor": 14465,
+          "priceDate": "2026-10-13"
+        }
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1823466,
+      "pnlMinor": 23466,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10355,
+          "priceDate": "2026-10-14"
+        },
+        "DEMO_B": {
+          "closeMinor": 8937,
+          "priceDate": "2026-10-14"
+        },
+        "DEMO_C": {
+          "closeMinor": 14501,
+          "priceDate": "2026-10-14"
+        }
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1820322,
+      "pnlMinor": 20322,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10455,
+          "priceDate": "2026-10-15"
+        },
+        "DEMO_B": {
+          "closeMinor": 8833,
+          "priceDate": "2026-10-15"
+        },
+        "DEMO_C": {
+          "closeMinor": 14459,
+          "priceDate": "2026-10-15"
+        }
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1815136,
+      "pnlMinor": 15136,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10513,
+          "priceDate": "2026-10-16"
+        },
+        "DEMO_B": {
+          "closeMinor": 8733,
+          "priceDate": "2026-10-16"
+        },
+        "DEMO_C": {
+          "closeMinor": 14381,
+          "priceDate": "2026-10-16"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1810936,
+      "pnlMinor": 10936,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10536,
+          "priceDate": "2026-10-19"
+        },
+        "DEMO_B": {
+          "closeMinor": 8674,
+          "priceDate": "2026-10-19"
+        },
+        "DEMO_C": {
+          "closeMinor": 14301,
+          "priceDate": "2026-10-19"
+        }
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1810475,
+      "pnlMinor": 10475,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10553,
+          "priceDate": "2026-10-20"
+        },
+        "DEMO_B": {
+          "closeMinor": 8682,
+          "priceDate": "2026-10-20"
+        },
+        "DEMO_C": {
+          "closeMinor": 14233,
+          "priceDate": "2026-10-20"
+        }
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1814463,
+      "pnlMinor": 14463,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10589,
+          "priceDate": "2026-10-21"
+        },
+        "DEMO_B": {
+          "closeMinor": 8758,
+          "priceDate": "2026-10-21"
+        },
+        "DEMO_C": {
+          "closeMinor": 14167,
+          "priceDate": "2026-10-21"
+        }
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1821513,
+      "pnlMinor": 21513,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10649,
+          "priceDate": "2026-10-22"
+        },
+        "DEMO_B": {
+          "closeMinor": 8880,
+          "priceDate": "2026-10-22"
+        },
+        "DEMO_C": {
+          "closeMinor": 14087,
+          "priceDate": "2026-10-22"
+        }
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1828766,
+      "pnlMinor": 28766,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10717,
+          "priceDate": "2026-10-23"
+        },
+        "DEMO_B": {
+          "closeMinor": 9007,
+          "priceDate": "2026-10-23"
+        },
+        "DEMO_C": {
+          "closeMinor": 13991,
+          "priceDate": "2026-10-23"
+        }
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "cashMinor": 650484,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1833846,
+      "pnlMinor": 33846,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 22
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10760,
+          "priceDate": "2026-10-26"
+        },
+        "DEMO_B": {
+          "closeMinor": 9108,
+          "priceDate": "2026-10-26"
+        },
+        "DEMO_C": {
+          "closeMinor": 13901,
+          "priceDate": "2026-10-26"
+        }
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1835548,
+      "pnlMinor": 35548,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10748,
+          "priceDate": "2026-10-27"
+        },
+        "DEMO_B": {
+          "closeMinor": 9165,
+          "priceDate": "2026-10-27"
+        },
+        "DEMO_C": {
+          "closeMinor": 13860,
+          "priceDate": "2026-10-27"
+        }
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1834590,
+      "pnlMinor": 34590,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10670,
+          "priceDate": "2026-10-28"
+        },
+        "DEMO_B": {
+          "closeMinor": 9185,
+          "priceDate": "2026-10-28"
+        },
+        "DEMO_C": {
+          "closeMinor": 13908,
+          "priceDate": "2026-10-28"
+        }
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1832598,
+      "pnlMinor": 32598,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10546,
+          "priceDate": "2026-10-29"
+        },
+        "DEMO_B": {
+          "closeMinor": 9189,
+          "priceDate": "2026-10-29"
+        },
+        "DEMO_C": {
+          "closeMinor": 14060,
+          "priceDate": "2026-10-29"
+        }
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1831555,
+      "pnlMinor": 31555,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10412,
+          "priceDate": "2026-10-30"
+        },
+        "DEMO_B": {
+          "closeMinor": 9196,
+          "priceDate": "2026-10-30"
+        },
+        "DEMO_C": {
+          "closeMinor": 14293,
+          "priceDate": "2026-10-30"
+        }
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1832171,
+      "pnlMinor": 32171,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10308,
+          "priceDate": "2026-11-02"
+        },
+        "DEMO_B": {
+          "closeMinor": 9210,
+          "priceDate": "2026-11-02"
+        },
+        "DEMO_C": {
+          "closeMinor": 14542,
+          "priceDate": "2026-11-02"
+        }
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "cashMinor": 761253,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1833507,
+      "pnlMinor": 33507,
+      "holdings": {
+        "DEMO_A": 35,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10256,
+          "priceDate": "2026-11-03"
+        },
+        "DEMO_B": {
+          "closeMinor": 9218,
+          "priceDate": "2026-11-03"
+        },
+        "DEMO_C": {
+          "closeMinor": 14736,
+          "priceDate": "2026-11-03"
+        }
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "cashMinor": 658640,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1833291,
+      "pnlMinor": 33291,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10251,
+          "priceDate": "2026-11-04"
+        },
+        "DEMO_B": {
+          "closeMinor": 9198,
+          "priceDate": "2026-11-04"
+        },
+        "DEMO_C": {
+          "closeMinor": 14819,
+          "priceDate": "2026-11-04"
+        }
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "cashMinor": 658640,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1829793,
+      "pnlMinor": 29793,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10267,
+          "priceDate": "2026-11-05"
+        },
+        "DEMO_B": {
+          "closeMinor": 9132,
+          "priceDate": "2026-11-05"
+        },
+        "DEMO_C": {
+          "closeMinor": 14777,
+          "priceDate": "2026-11-05"
+        }
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "cashMinor": 658640,
+      "netContributionsMinor": 1800000,
+      "assetsMinor": 1822299,
+      "pnlMinor": 22299,
+      "holdings": {
+        "DEMO_A": 45,
+        "DEMO_B": 55,
+        "DEMO_C": 14
+      },
+      "prices": {
+        "DEMO_A": {
+          "closeMinor": 10276,
+          "priceDate": "2026-11-06"
+        },
+        "DEMO_B": {
+          "closeMinor": 9023,
+          "priceDate": "2026-11-06"
+        },
+        "DEMO_C": {
+          "closeMinor": 14641,
+          "priceDate": "2026-11-06"
+        }
+      }
+    }
+  ],
+  "market": {
+    "DEMO_A": {
+      "periodReturnPct": 0.745098039215697,
+      "maxDrawdownPct": 6.203218562874251,
+      "volatilityPct": 11.726213461776199,
+      "observations": 60,
+      "firstDate": "2026-08-17",
+      "lastDate": "2026-11-06"
+    },
+    "DEMO_B": {
+      "periodReturnPct": -0.4852762766074825,
+      "maxDrawdownPct": 5.778263244128891,
+      "volatilityPct": 12.959550368181977,
+      "observations": 60,
+      "firstDate": "2026-08-17",
+      "lastDate": "2026-11-06"
+    },
+    "DEMO_C": {
+      "periodReturnPct": 5.01362788696027,
+      "maxDrawdownPct": 5.550442477876106,
+      "volatilityPct": 14.188513831753038,
+      "observations": 60,
+      "firstDate": "2026-08-17",
+      "lastDate": "2026-11-06"
+    }
+  },
+  "research": {
+    "series": [
+      {
+        "symbol": "DEMO_A",
+        "observations": 60,
+        "returnPct": 0.745098039215697,
+        "volatilityPct": 11.245896720678928,
+        "maxDrawdownPct": -6.2032185628742464,
+        "positiveDays": 30,
+        "returnDays": 59,
+        "returns": [
+          {
+            "date": "2026-08-18",
+            "value": 0.01401960784313716
+          },
+          {
+            "date": "2026-08-19",
+            "value": 0.01005510973605328
+          },
+          {
+            "date": "2026-08-20",
+            "value": 0.00440317794582179
+          },
+          {
+            "date": "2026-08-21",
+            "value": -0.0006671114076051143
+          },
+          {
+            "date": "2026-08-24",
+            "value": -0.003051687964905625
+          },
+          {
+            "date": "2026-08-25",
+            "value": -0.0024870862827626183
+          },
+          {
+            "date": "2026-08-26",
+            "value": -0.00028768699654779795
+          },
+          {
+            "date": "2026-08-27",
+            "value": 0.001151079136690658
+          },
+          {
+            "date": "2026-08-28",
+            "value": -0.0000958129730765922
+          },
+          {
+            "date": "2026-08-31",
+            "value": -0.003832886163280924
+          },
+          {
+            "date": "2026-09-01",
+            "value": -0.008849557522123908
+          },
+          {
+            "date": "2026-09-02",
+            "value": -0.012422360248447228
+          },
+          {
+            "date": "2026-09-03",
+            "value": -0.012578616352201255
+          },
+          {
+            "date": "2026-09-04",
+            "value": -0.008857484076433164
+          },
+          {
+            "date": "2026-09-07",
+            "value": -0.0025102921980117987
+          },
+          {
+            "date": "2026-09-08",
+            "value": 0.003623917857861869
+          },
+          {
+            "date": "2026-09-09",
+            "value": 0.007221664994985
+          },
+          {
+            "date": "2026-09-10",
+            "value": 0.0070703047201752245
+          },
+          {
+            "date": "2026-09-11",
+            "value": 0.004845248689805182
+          },
+          {
+            "date": "2026-09-14",
+            "value": 0.002361739814997099
+          },
+          {
+            "date": "2026-09-15",
+            "value": 0.002061653249558315
+          },
+          {
+            "date": "2026-09-16",
+            "value": 0.004604683060644765
+          },
+          {
+            "date": "2026-09-17",
+            "value": 0.00858201677394188
+          },
+          {
+            "date": "2026-09-18",
+            "value": 0.011603171533552503
+          },
+          {
+            "date": "2026-09-21",
+            "value": 0.011661250238960141
+          },
+          {
+            "date": "2026-09-22",
+            "value": 0.008030990173847341
+          },
+          {
+            "date": "2026-09-23",
+            "value": 0.0017808604367794967
+          },
+          {
+            "date": "2026-09-24",
+            "value": -0.004397455089820368
+          },
+          {
+            "date": "2026-09-25",
+            "value": -0.008363875575603807
+          },
+          {
+            "date": "2026-09-28",
+            "value": -0.009003032600454874
+          },
+          {
+            "date": "2026-09-29",
+            "value": -0.006598450798508182
+          },
+          {
+            "date": "2026-09-30",
+            "value": -0.003369272237196741
+          },
+          {
+            "date": "2026-10-01",
+            "value": -0.0016420361247947435
+          },
+          {
+            "date": "2026-10-02",
+            "value": -0.0025154798761609642
+          },
+          {
+            "date": "2026-10-05",
+            "value": -0.005431619786614883
+          },
+          {
+            "date": "2026-10-06",
+            "value": -0.008289448020284751
+          },
+          {
+            "date": "2026-10-07",
+            "value": -0.008653751597993864
+          },
+          {
+            "date": "2026-10-08",
+            "value": -0.0055550044638428275
+          },
+          {
+            "date": "2026-10-09",
+            "value": 0.000598503740648404
+          },
+          {
+            "date": "2026-10-12",
+            "value": 0.007476821852258064
+          },
+          {
+            "date": "2026-10-13",
+            "value": 0.011874134177716211
+          },
+          {
+            "date": "2026-10-14",
+            "value": 0.012614903187952331
+          },
+          {
+            "date": "2026-10-15",
+            "value": 0.00965717044905845
+          },
+          {
+            "date": "2026-10-16",
+            "value": 0.0055475848876136435
+          },
+          {
+            "date": "2026-10-19",
+            "value": 0.0021877675259203144
+          },
+          {
+            "date": "2026-10-20",
+            "value": 0.0016135155656795686
+          },
+          {
+            "date": "2026-10-21",
+            "value": 0.003411352222116859
+          },
+          {
+            "date": "2026-10-22",
+            "value": 0.005666257436962807
+          },
+          {
+            "date": "2026-10-23",
+            "value": 0.006385576110433
+          },
+          {
+            "date": "2026-10-26",
+            "value": 0.0040123168797236985
+          },
+          {
+            "date": "2026-10-27",
+            "value": -0.0011152416356877692
+          },
+          {
+            "date": "2026-10-28",
+            "value": -0.007257164123557924
+          },
+          {
+            "date": "2026-10-29",
+            "value": -0.01162136832239924
+          },
+          {
+            "date": "2026-10-30",
+            "value": -0.0127062393324483
+          },
+          {
+            "date": "2026-11-02",
+            "value": -0.009988474836726824
+          },
+          {
+            "date": "2026-11-03",
+            "value": -0.005044625533566216
+          },
+          {
+            "date": "2026-11-04",
+            "value": -0.0004875195007800759
+          },
+          {
+            "date": "2026-11-05",
+            "value": 0.0015608233343089584
+          },
+          {
+            "date": "2026-11-06",
+            "value": 0.000876594915749429
+          }
+        ],
+        "points": [
+          {
+            "date": "2026-08-17",
+            "index": 100,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-18",
+            "index": 101.40196078431372,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-19",
+            "index": 102.42156862745098,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-20",
+            "index": 102.87254901960785,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-21",
+            "index": 102.80392156862746,
+            "drawdown": -0.06671114076051143,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-24",
+            "index": 102.49019607843137,
+            "drawdown": -0.37167635566568435,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-25",
+            "index": 102.23529411764707,
+            "drawdown": -0.6194605927761332,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-26",
+            "index": 102.20588235294117,
+            "drawdown": -0.6480510816734952,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-27",
+            "index": 102.3235294117647,
+            "drawdown": -0.5336891260840582,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-28",
+            "index": 102.31372549019608,
+            "drawdown": -0.5432192890498455,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-31",
+            "index": 101.92156862745098,
+            "drawdown": -0.9244258076813061,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-01",
+            "index": 101.01960784313727,
+            "drawdown": -1.8012008005336866,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-02",
+            "index": 99.76470588235294,
+            "drawdown": -3.0210616601543894,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-03",
+            "index": 98.50980392156863,
+            "drawdown": -4.240922519775092,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-04",
+            "index": 97.63725490196077,
+            "drawdown": -5.089107023730111,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-07",
+            "index": 97.3921568627451,
+            "drawdown": -5.327361097874772,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-08",
+            "index": 97.74509803921568,
+            "drawdown": -4.98427523110645,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-09",
+            "index": 98.45098039215686,
+            "drawdown": -4.298103497569805,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-10",
+            "index": 99.1470588235294,
+            "drawdown": -3.621461926998948,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-11",
+            "index": 99.62745098039215,
+            "drawdown": -3.154483941675401,
+            "ma20": 10262.65
+          },
+          {
+            "date": "2026-09-14",
+            "index": 99.86274509803921,
+            "drawdown": -2.925760030496527,
+            "ma20": 10261.95
+          },
+          {
+            "date": "2026-09-15",
+            "index": 100.0686274509804,
+            "drawdown": -2.725626608215004,
+            "ma20": 10255.15
+          },
+          {
+            "date": "2026-09-16",
+            "index": 100.52941176470588,
+            "drawdown": -2.2777089488230207,
+            "ma20": 10245.5
+          },
+          {
+            "date": "2026-09-17",
+            "index": 101.3921568627451,
+            "drawdown": -1.4390546078337896,
+            "ma20": 10237.95
+          },
+          {
+            "date": "2026-09-18",
+            "index": 102.56862745098039,
+            "drawdown": -0.2954350519393856,
+            "ma20": 10236.75
+          },
+          {
+            "date": "2026-09-21",
+            "index": 103.76470588235294,
+            "drawdown": 0,
+            "ma20": 10243.25
+          },
+          {
+            "date": "2026-09-22",
+            "index": 104.59803921568627,
+            "drawdown": 0,
+            "ma20": 10255.3
+          },
+          {
+            "date": "2026-09-23",
+            "index": 104.7843137254902,
+            "drawdown": 0,
+            "ma20": 10268.45
+          },
+          {
+            "date": "2026-09-24",
+            "index": 104.32352941176471,
+            "drawdown": -0.4397455089820368,
+            "ma20": 10278.65
+          },
+          {
+            "date": "2026-09-25",
+            "index": 103.45098039215685,
+            "drawdown": -1.2724550898203568,
+            "ma20": 10284.45
+          },
+          {
+            "date": "2026-09-28",
+            "index": 102.51960784313725,
+            "drawdown": -2.1613023952095856,
+            "ma20": 10287.5
+          },
+          {
+            "date": "2026-09-29",
+            "index": 101.84313725490195,
+            "drawdown": -2.8068862275449136,
+            "ma20": 10291.7
+          },
+          {
+            "date": "2026-09-30",
+            "index": 101.49999999999999,
+            "drawdown": -3.134356287425155,
+            "ma20": 10300.55
+          },
+          {
+            "date": "2026-10-01",
+            "index": 101.33333333333334,
+            "drawdown": -3.293413173652693,
+            "ma20": 10314.95
+          },
+          {
+            "date": "2026-10-02",
+            "index": 101.07843137254902,
+            "drawdown": -3.5366766467065824,
+            "ma20": 10332.5
+          },
+          {
+            "date": "2026-10-05",
+            "index": 100.52941176470588,
+            "drawdown": -4.060628742514972,
+            "ma20": 10348.5
+          },
+          {
+            "date": "2026-10-06",
+            "index": 99.69607843137254,
+            "drawdown": -4.855913173652693,
+            "ma20": 10358.45
+          },
+          {
+            "date": "2026-10-07",
+            "index": 98.83333333333333,
+            "drawdown": -5.679266467065869,
+            "ma20": 10360.4
+          },
+          {
+            "date": "2026-10-08",
+            "index": 98.2843137254902,
+            "drawdown": -6.2032185628742464,
+            "ma20": 10356
+          },
+          {
+            "date": "2026-10-09",
+            "index": 98.34313725490196,
+            "drawdown": -6.147080838323349,
+            "ma20": 10349.45
+          },
+          {
+            "date": "2026-10-12",
+            "index": 99.07843137254902,
+            "drawdown": -5.445359281437123,
+            "ma20": 10345.45
+          },
+          {
+            "date": "2026-10-13",
+            "index": 100.25490196078431,
+            "drawdown": -4.32260479041916,
+            "ma20": 10346.4
+          },
+          {
+            "date": "2026-10-14",
+            "index": 101.51960784313725,
+            "drawdown": -3.115643712574845,
+            "ma20": 10351.45
+          },
+          {
+            "date": "2026-10-15",
+            "index": 102.49999999999999,
+            "drawdown": -2.1800149700598848,
+            "ma20": 10357.1
+          },
+          {
+            "date": "2026-10-16",
+            "index": 103.0686274509804,
+            "drawdown": -1.6373502994011968,
+            "ma20": 10359.65
+          },
+          {
+            "date": "2026-10-19",
+            "index": 103.29411764705883,
+            "drawdown": -1.4221556886227504,
+            "ma20": 10357.25
+          },
+          {
+            "date": "2026-10-20",
+            "index": 103.4607843137255,
+            "drawdown": -1.2630988023952128,
+            "ma20": 10351.45
+          },
+          {
+            "date": "2026-10-21",
+            "index": 103.81372549019608,
+            "drawdown": -0.926272455089816,
+            "ma20": 10346.5
+          },
+          {
+            "date": "2026-10-22",
+            "index": 104.40196078431372,
+            "drawdown": -0.36489520958084,
+            "ma20": 10346.9
+          },
+          {
+            "date": "2026-10-23",
+            "index": 105.0686274509804,
+            "drawdown": 0,
+            "ma20": 10355.15
+          },
+          {
+            "date": "2026-10-26",
+            "index": 105.49019607843138,
+            "drawdown": 0,
+            "ma20": 10370.3
+          },
+          {
+            "date": "2026-10-27",
+            "index": 105.37254901960785,
+            "drawdown": -0.11152416356877692,
+            "ma20": 10388.3
+          },
+          {
+            "date": "2026-10-28",
+            "index": 104.6078431372549,
+            "drawdown": -0.8364312267657992,
+            "ma20": 10404.15
+          },
+          {
+            "date": "2026-10-29",
+            "index": 103.3921568627451,
+            "drawdown": -1.9888475836431274,
+            "ma20": 10414.65
+          },
+          {
+            "date": "2026-10-30",
+            "index": 102.07843137254902,
+            "drawdown": -3.2342007434944198,
+            "ma20": 10419.75
+          },
+          {
+            "date": "2026-11-02",
+            "index": 101.05882352941175,
+            "drawdown": -4.2007434944237865,
+            "ma20": 10422.45
+          },
+          {
+            "date": "2026-11-03",
+            "index": 100.54901960784312,
+            "drawdown": -4.684014869888475,
+            "ma20": 10426.8
+          },
+          {
+            "date": "2026-11-04",
+            "index": 100.49999999999999,
+            "drawdown": -4.730483271375463,
+            "ma20": 10435.3
+          },
+          {
+            "date": "2026-11-05",
+            "index": 100.65686274509804,
+            "drawdown": -4.581784386617105,
+            "ma20": 10447.4
+          },
+          {
+            "date": "2026-11-06",
+            "index": 100.74509803921569,
+            "drawdown": -4.498141263940525,
+            "ma20": 10459.65
+          }
+        ]
+      },
+      {
+        "symbol": "DEMO_B",
+        "observations": 60,
+        "returnPct": -0.4852762766074825,
+        "volatilityPct": 12.673788125367738,
+        "maxDrawdownPct": -5.7782632441288895,
+        "positiveDays": 24,
+        "returnDays": 59,
+        "returns": [
+          {
+            "date": "2026-08-18",
+            "value": 0.005183632954670836
+          },
+          {
+            "date": "2026-08-19",
+            "value": -0.0024138687733157305
+          },
+          {
+            "date": "2026-08-20",
+            "value": -0.008468983721953371
+          },
+          {
+            "date": "2026-08-21",
+            "value": -0.010759844703272292
+          },
+          {
+            "date": "2026-08-24",
+            "value": -0.009531285041489146
+          },
+          {
+            "date": "2026-08-25",
+            "value": -0.006453073700894318
+          },
+          {
+            "date": "2026-08-26",
+            "value": -0.003532360984503158
+          },
+          {
+            "date": "2026-08-27",
+            "value": -0.002744425385934779
+          },
+          {
+            "date": "2026-08-28",
+            "value": -0.003898635477582846
+          },
+          {
+            "date": "2026-08-31",
+            "value": -0.005180154253482172
+          },
+          {
+            "date": "2026-09-01",
+            "value": -0.004628558204119448
+          },
+          {
+            "date": "2026-09-02",
+            "value": -0.0008137642408742041
+          },
+          {
+            "date": "2026-09-03",
+            "value": 0.005468295520651534
+          },
+          {
+            "date": "2026-09-04",
+            "value": 0.012265679240916372
+          },
+          {
+            "date": "2026-09-07",
+            "value": 0.016003657978966634
+          },
+          {
+            "date": "2026-09-08",
+            "value": 0.01552655265526548
+          },
+          {
+            "date": "2026-09-09",
+            "value": 0.010635940615998152
+          },
+          {
+            "date": "2026-09-10",
+            "value": 0.003617627713220717
+          },
+          {
+            "date": "2026-09-11",
+            "value": -0.0028399781540141555
+          },
+          {
+            "date": "2026-09-14",
+            "value": -0.0066820024099024655
+          },
+          {
+            "date": "2026-09-15",
+            "value": -0.0071680635200706
+          },
+          {
+            "date": "2026-09-16",
+            "value": -0.005553704320781949
+          },
+          {
+            "date": "2026-09-17",
+            "value": -0.0037976097397520725
+          },
+          {
+            "date": "2026-09-18",
+            "value": -0.0036999663639420977
+          },
+          {
+            "date": "2026-09-21",
+            "value": -0.005514292144947142
+          },
+          {
+            "date": "2026-09-22",
+            "value": -0.008147561389611813
+          },
+          {
+            "date": "2026-09-23",
+            "value": -0.00901312036508839
+          },
+          {
+            "date": "2026-09-24",
+            "value": -0.006447156343541316
+          },
+          {
+            "date": "2026-09-25",
+            "value": -0.0004634994206257348
+          },
+          {
+            "date": "2026-09-28",
+            "value": 0.007419429631347008
+          },
+          {
+            "date": "2026-09-29",
+            "value": 0.013808975834292303
+          },
+          {
+            "date": "2026-09-30",
+            "value": 0.016118047673098657
+          },
+          {
+            "date": "2026-10-01",
+            "value": 0.013963360142984715
+          },
+          {
+            "date": "2026-10-02",
+            "value": 0.008482978957805365
+          },
+          {
+            "date": "2026-10-05",
+            "value": 0.0024033209525891053
+          },
+          {
+            "date": "2026-10-06",
+            "value": -0.0019616390584132892
+          },
+          {
+            "date": "2026-10-07",
+            "value": -0.003494212710198785
+          },
+          {
+            "date": "2026-10-08",
+            "value": -0.002849002849002802
+          },
+          {
+            "date": "2026-10-09",
+            "value": -0.0017582417582417964
+          },
+          {
+            "date": "2026-10-12",
+            "value": -0.002311756935270859
+          },
+          {
+            "date": "2026-10-13",
+            "value": -0.0049652432969214955
+          },
+          {
+            "date": "2026-10-14",
+            "value": -0.008982035928143728
+          },
+          {
+            "date": "2026-10-15",
+            "value": -0.011637014658162692
+          },
+          {
+            "date": "2026-10-16",
+            "value": -0.011321181931393642
+          },
+          {
+            "date": "2026-10-19",
+            "value": -0.006755983052788239
+          },
+          {
+            "date": "2026-10-20",
+            "value": 0.0009222965183306453
+          },
+          {
+            "date": "2026-10-21",
+            "value": 0.008753743377102108
+          },
+          {
+            "date": "2026-10-22",
+            "value": 0.01393012103219915
+          },
+          {
+            "date": "2026-10-23",
+            "value": 0.014301801801801739
+          },
+          {
+            "date": "2026-10-26",
+            "value": 0.011213500610636196
+          },
+          {
+            "date": "2026-10-27",
+            "value": 0.006258234519104011
+          },
+          {
+            "date": "2026-10-28",
+            "value": 0.0021822149481725006
+          },
+          {
+            "date": "2026-10-29",
+            "value": 0.0004354926510614643
+          },
+          {
+            "date": "2026-10-30",
+            "value": 0.0007617803895962894
+          },
+          {
+            "date": "2026-11-02",
+            "value": 0.0015224010439320868
+          },
+          {
+            "date": "2026-11-03",
+            "value": 0.000868621064060715
+          },
+          {
+            "date": "2026-11-04",
+            "value": -0.002169668040789774
+          },
+          {
+            "date": "2026-11-05",
+            "value": -0.0071754729288976415
+          },
+          {
+            "date": "2026-11-06",
+            "value": -0.011936049058256626
+          }
+        ],
+        "points": [
+          {
+            "date": "2026-08-17",
+            "index": 100,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-18",
+            "index": 100.51836329546708,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-19",
+            "index": 100.27572515716334,
+            "drawdown": -0.24138687733157305,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-20",
+            "index": 99.42649167310026,
+            "drawdown": -1.086240947992101,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-21",
+            "index": 98.35667806330649,
+            "drawdown": -2.1505376344086002,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-24",
+            "index": 97.41921252895114,
+            "drawdown": -3.0831687513715123,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-25",
+            "index": 96.79055917061874,
+            "drawdown": -3.7085802062760576,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-26",
+            "index": 96.44865997573618,
+            "drawdown": -4.048716260697827,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-27",
+            "index": 96.18396382485938,
+            "drawdown": -4.312047399605001,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-28",
+            "index": 95.80897761111724,
+            "drawdown": -4.685099846390173,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-31",
+            "index": 95.31267232822323,
+            "drawdown": -5.17884573184112,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-01",
+            "index": 94.87151207676189,
+            "drawdown": -5.617730963353084,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-02",
+            "index": 94.79430903275615,
+            "drawdown": -5.694535878867679,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-03",
+            "index": 95.31267232822323,
+            "drawdown": -5.17884573184112,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-04",
+            "index": 96.48174699459578,
+            "drawdown": -4.015799868334435,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-07",
+            "index": 98.0258078747105,
+            "drawdown": -2.4797015580425685,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-08",
+            "index": 99.54781074225212,
+            "drawdown": -0.9655475093263144,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-09",
+            "index": 100.60659534575936,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-10",
+            "index": 100.97055255321496,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-11",
+            "index": 100.68379838976509,
+            "drawdown": -0.28399781540141555,
+            "ma20": 8875.85
+          },
+          {
+            "date": "2026-09-14",
+            "index": 100.01102900628653,
+            "drawdown": -0.9503003823047473,
+            "ma20": 8875.9
+          },
+          {
+            "date": "2026-09-15",
+            "index": 99.29414359766186,
+            "drawdown": -1.6602949208083029,
+            "ma20": 8870.35
+          },
+          {
+            "date": "2026-09-16",
+            "index": 98.74269328333517,
+            "drawdown": -2.2064445658110277,
+            "ma20": 8863.4
+          },
+          {
+            "date": "2026-09-17",
+            "index": 98.36770706959302,
+            "drawdown": -2.5778263244128907,
+            "ma20": 8858.6
+          },
+          {
+            "date": "2026-09-18",
+            "index": 98.00374986213743,
+            "drawdown": -2.9382850901146895,
+            "ma20": 8857
+          },
+          {
+            "date": "2026-09-21",
+            "index": 97.46332855409727,
+            "drawdown": -3.4735117422173722,
+            "ma20": 8857.2
+          },
+          {
+            "date": "2026-09-22",
+            "index": 96.66924010146685,
+            "drawdown": -4.2599672310212995,
+            "ma20": 8856.65
+          },
+          {
+            "date": "2026-09-23",
+            "index": 95.79794860483071,
+            "drawdown": -5.122883670125611,
+            "ma20": 8853.7
+          },
+          {
+            "date": "2026-09-24",
+            "index": 95.18032425278481,
+            "drawdown": -5.734571272528677,
+            "ma20": 8849.15
+          },
+          {
+            "date": "2026-09-25",
+            "index": 95.13620822763869,
+            "drawdown": -5.7782632441288895,
+            "ma20": 8846.1
+          },
+          {
+            "date": "2026-09-28",
+            "index": 95.84206462997685,
+            "drawdown": -5.079191698525398,
+            "ma20": 8848.5
+          },
+          {
+            "date": "2026-09-29",
+            "index": 97.16554538436087,
+            "drawdown": -3.768432550518841,
+            "ma20": 8858.9
+          },
+          {
+            "date": "2026-09-30",
+            "index": 98.73166427704864,
+            "drawdown": -2.217367558711092,
+            "ma20": 8876.75
+          },
+          {
+            "date": "2026-10-01",
+            "index": 100.11029006286533,
+            "drawdown": -0.8519934462042578,
+            "ma20": 8898.5
+          },
+          {
+            "date": "2026-10-02",
+            "index": 100.95952354692844,
+            "drawdown": -0.010922992900053163,
+            "ma20": 8918.8
+          },
+          {
+            "date": "2026-10-05",
+            "index": 101.20216168523216,
+            "drawdown": 0,
+            "ma20": 8933.2
+          },
+          {
+            "date": "2026-10-06",
+            "index": 101.00363957207456,
+            "drawdown": -0.19616390584132892,
+            "ma20": 8939.8
+          },
+          {
+            "date": "2026-10-07",
+            "index": 100.65071137090548,
+            "drawdown": -0.5448997384481236,
+            "ma20": 8940
+          },
+          {
+            "date": "2026-10-08",
+            "index": 100.36395720745561,
+            "drawdown": -0.8282476024411456,
+            "ma20": 8937.25
+          },
+          {
+            "date": "2026-10-09",
+            "index": 100.18749310687107,
+            "drawdown": -1.002615518744554,
+            "ma20": 8935
+          },
+          {
+            "date": "2026-10-12",
+            "index": 99.95588397485386,
+            "drawdown": -1.2314734088927692,
+            "ma20": 8934.75
+          },
+          {
+            "date": "2026-10-13",
+            "index": 99.45957869195985,
+            "drawdown": -1.721883173496075,
+            "ma20": 8935.5
+          },
+          {
+            "date": "2026-10-14",
+            "index": 98.56622918275063,
+            "drawdown": -2.6046207497820384,
+            "ma20": 8934.7
+          },
+          {
+            "date": "2026-10-15",
+            "index": 97.41921252895114,
+            "drawdown": -3.7380122057541376,
+            "ma20": 8930.4
+          },
+          {
+            "date": "2026-10-16",
+            "index": 96.31631190029778,
+            "drawdown": -4.827811682650395,
+            "ma20": 8922.75
+          },
+          {
+            "date": "2026-10-19",
+            "index": 95.66560052939231,
+            "drawdown": -5.470793374019179,
+            "ma20": 8914.6
+          },
+          {
+            "date": "2026-10-20",
+            "index": 95.75383257968457,
+            "drawdown": -5.383609415867485,
+            "ma20": 8910.45
+          },
+          {
+            "date": "2026-10-21",
+            "index": 96.59203705746113,
+            "drawdown": -4.5553618134263285,
+            "ma20": 8914.05
+          },
+          {
+            "date": "2026-10-22",
+            "index": 97.93757582441822,
+            "drawdown": -3.2258064516129004,
+            "ma20": 8926.55
+          },
+          {
+            "date": "2026-10-23",
+            "index": 99.338259622808,
+            "drawdown": -1.8417611159546654,
+            "ma20": 8945.6
+          },
+          {
+            "date": "2026-10-26",
+            "index": 100.45218925774788,
+            "drawdown": -0.7410636442894525,
+            "ma20": 8966.5
+          },
+          {
+            "date": "2026-10-27",
+            "index": 101.0808426160803,
+            "drawdown": -0.11987794245859051,
+            "ma20": 8984.25
+          },
+          {
+            "date": "2026-10-28",
+            "index": 101.30142274181095,
+            "drawdown": 0,
+            "ma20": 8995.9
+          },
+          {
+            "date": "2026-10-29",
+            "index": 101.34553876695709,
+            "drawdown": 0,
+            "ma20": 9001.5
+          },
+          {
+            "date": "2026-10-30",
+            "index": 101.42274181096282,
+            "drawdown": 0,
+            "ma20": 9003.6
+          },
+          {
+            "date": "2026-11-02",
+            "index": 101.57714789897429,
+            "drawdown": 0,
+            "ma20": 9005.3
+          },
+          {
+            "date": "2026-11-03",
+            "index": 101.66537994926657,
+            "drawdown": 0,
+            "ma20": 9008.3
+          },
+          {
+            "date": "2026-11-04",
+            "index": 101.44479982353589,
+            "drawdown": -0.2169668040789774,
+            "ma20": 9011.9
+          },
+          {
+            "date": "2026-11-05",
+            "index": 100.71688540862469,
+            "drawdown": -0.9329572575396017,
+            "ma20": 9013.5
+          },
+          {
+            "date": "2026-11-06",
+            "index": 99.51472372339252,
+            "drawdown": -2.11542633977001,
+            "ma20": 9010.45
+          }
+        ]
+      },
+      {
+        "symbol": "DEMO_C",
+        "observations": 60,
+        "returnPct": 5.01362788696027,
+        "volatilityPct": 14.98508339677,
+        "maxDrawdownPct": -5.550442477876105,
+        "positiveDays": 32,
+        "returnDays": 59,
+        "returns": [
+          {
+            "date": "2026-08-18",
+            "value": -0.010113326638932718
+          },
+          {
+            "date": "2026-08-19",
+            "value": -0.015071371639736264
+          },
+          {
+            "date": "2026-08-20",
+            "value": -0.015007724564113922
+          },
+          {
+            "date": "2026-08-21",
+            "value": -0.010232280230039636
+          },
+          {
+            "date": "2026-08-24",
+            "value": -0.0032447932387563716
+          },
+          {
+            "date": "2026-08-25",
+            "value": 0.0031039442804148276
+          },
+          {
+            "date": "2026-08-26",
+            "value": 0.006716981132075528
+          },
+          {
+            "date": "2026-08-27",
+            "value": 0.0075717819926530705
+          },
+          {
+            "date": "2026-08-28",
+            "value": 0.006919642857142749
+          },
+          {
+            "date": "2026-08-31",
+            "value": 0.006872090445577461
+          },
+          {
+            "date": "2026-09-01",
+            "value": 0.00785263466901509
+          },
+          {
+            "date": "2026-09-02",
+            "value": 0.009539066482196157
+          },
+          {
+            "date": "2026-09-03",
+            "value": 0.00988170802077315
+          },
+          {
+            "date": "2026-09-04",
+            "value": 0.007356617384472575
+          },
+          {
+            "date": "2026-09-07",
+            "value": 0.0014889393079977609
+          },
+          {
+            "date": "2026-09-08",
+            "value": -0.006017699115044239
+          },
+          {
+            "date": "2026-09-09",
+            "value": -0.012962962962962954
+          },
+          {
+            "date": "2026-09-10",
+            "value": -0.01616394862173476
+          },
+          {
+            "date": "2026-09-11",
+            "value": -0.014229133049728615
+          },
+          {
+            "date": "2026-09-14",
+            "value": -0.007366071428571375
+          },
+          {
+            "date": "2026-09-15",
+            "value": 0.0018739224945656385
+          },
+          {
+            "date": "2026-09-16",
+            "value": 0.009875804279515288
+          },
+          {
+            "date": "2026-09-17",
+            "value": 0.014002074381389784
+          },
+          {
+            "date": "2026-09-18",
+            "value": 0.013516475487689084
+          },
+          {
+            "date": "2026-09-21",
+            "value": 0.010164359861591699
+          },
+          {
+            "date": "2026-09-22",
+            "value": 0.006279882965817496
+          },
+          {
+            "date": "2026-09-23",
+            "value": 0.0034749308559676173
+          },
+          {
+            "date": "2026-09-24",
+            "value": 0.0024028268551237186
+          },
+          {
+            "date": "2026-09-25",
+            "value": 0.0018330513254372072
+          },
+          {
+            "date": "2026-09-28",
+            "value": 0.00035186488388450066
+          },
+          {
+            "date": "2026-09-29",
+            "value": -0.003024973619416116
+          },
+          {
+            "date": "2026-09-30",
+            "value": -0.007691222128139996
+          },
+          {
+            "date": "2026-10-01",
+            "value": -0.01180402474578679
+          },
+          {
+            "date": "2026-10-02",
+            "value": -0.013024393754047625
+          },
+          {
+            "date": "2026-10-05",
+            "value": -0.00962379702537186
+          },
+          {
+            "date": "2026-10-06",
+            "value": -0.0019876325088339364
+          },
+          {
+            "date": "2026-10-07",
+            "value": 0.007450025816921224
+          },
+          {
+            "date": "2026-10-08",
+            "value": 0.015009518231073438
+          },
+          {
+            "date": "2026-10-09",
+            "value": 0.017889345740460305
+          },
+          {
+            "date": "2026-10-12",
+            "value": 0.015519807242576622
+          },
+          {
+            "date": "2026-10-13",
+            "value": 0.009420795533845006
+          },
+          {
+            "date": "2026-10-14",
+            "value": 0.0024887659868648715
+          },
+          {
+            "date": "2026-10-15",
+            "value": -0.002896351975725797
+          },
+          {
+            "date": "2026-10-16",
+            "value": -0.005394563939414843
+          },
+          {
+            "date": "2026-10-19",
+            "value": -0.005562895487100983
+          },
+          {
+            "date": "2026-10-20",
+            "value": -0.004754912243899012
+          },
+          {
+            "date": "2026-10-21",
+            "value": -0.004637110939366251
+          },
+          {
+            "date": "2026-10-22",
+            "value": -0.005646925954683413
+          },
+          {
+            "date": "2026-10-23",
+            "value": -0.006814793781500628
+          },
+          {
+            "date": "2026-10-26",
+            "value": -0.006432706740047145
+          },
+          {
+            "date": "2026-10-27",
+            "value": -0.002949428098697915
+          },
+          {
+            "date": "2026-10-28",
+            "value": 0.0034632034632033903
+          },
+          {
+            "date": "2026-10-29",
+            "value": 0.010928961748633892
+          },
+          {
+            "date": "2026-10-30",
+            "value": 0.016571834992887613
+          },
+          {
+            "date": "2026-11-02",
+            "value": 0.01742111523123202
+          },
+          {
+            "date": "2026-11-03",
+            "value": 0.013340668408747147
+          },
+          {
+            "date": "2026-11-04",
+            "value": 0.005632464712269192
+          },
+          {
+            "date": "2026-11-05",
+            "value": -0.0028341993386867825
+          },
+          {
+            "date": "2026-11-06",
+            "value": -0.009203491913108208
+          }
+        ],
+        "points": [
+          {
+            "date": "2026-08-17",
+            "index": 100,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-18",
+            "index": 98.98866733610673,
+            "drawdown": -1.0113326638932718,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-19",
+            "index": 97.49677234256204,
+            "drawdown": -2.5032276574379564,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-20",
+            "index": 96.03356763735475,
+            "drawdown": -3.9664323626452447,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-21",
+            "index": 95.05092526179888,
+            "drawdown": -4.94907473820112,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-24",
+            "index": 94.74250466217185,
+            "drawdown": -5.257495337828145,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-25",
+            "index": 95.0365801176302,
+            "drawdown": -4.963419882369813,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-26",
+            "index": 95.67493903313729,
+            "drawdown": -4.325060966862715,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-27",
+            "index": 96.39936881365657,
+            "drawdown": -3.600631186343428,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-28",
+            "index": 97.06641801750108,
+            "drawdown": -2.933581982498923,
+            "ma20": null
+          },
+          {
+            "date": "2026-08-31",
+            "index": 97.73346722134558,
+            "drawdown": -2.2665327786544287,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-01",
+            "index": 98.50093243437097,
+            "drawdown": -1.4990675656290309,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-02",
+            "index": 99.44053937742075,
+            "drawdown": -0.5594606225792553,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-03",
+            "index": 100.42318175297662,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-04",
+            "index": 101.1619566776646,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-07",
+            "index": 101.31258069143594,
+            "drawdown": 0,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-08",
+            "index": 100.70291206426624,
+            "drawdown": -0.6017699115044239,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-09",
+            "index": 99.39750394491465,
+            "drawdown": -1.8902654867256619,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-10",
+            "index": 97.79084779802038,
+            "drawdown": -3.476106194690265,
+            "ma20": null
+          },
+          {
+            "date": "2026-09-11",
+            "index": 96.39936881365657,
+            "drawdown": -4.849557522123893,
+            "ma20": 13658.65
+          },
+          {
+            "date": "2026-09-14",
+            "index": 95.68928417730598,
+            "drawdown": -5.550442477876105,
+            "ma20": 13628.6
+          },
+          {
+            "date": "2026-09-15",
+            "index": 95.86859847941471,
+            "drawdown": -5.3734513274336315,
+            "ma20": 13606.85
+          },
+          {
+            "date": "2026-09-16",
+            "index": 96.81537799454884,
+            "drawdown": -4.438938053097341,
+            "ma20": 13602.1
+          },
+          {
+            "date": "2026-09-17",
+            "index": 98.1709941184909,
+            "drawdown": -3.1008849557522145,
+            "ma20": 13617
+          },
+          {
+            "date": "2026-09-18",
+            "index": 99.49791995409554,
+            "drawdown": -1.7911504424778735,
+            "ma20": 13648
+          },
+          {
+            "date": "2026-09-21",
+            "index": 100.50925261798882,
+            "drawdown": -0.792920353982296,
+            "ma20": 13688.2
+          },
+          {
+            "date": "2026-09-22",
+            "index": 101.14043896141156,
+            "drawdown": -0.1699115044247801,
+            "ma20": 13730.75
+          },
+          {
+            "date": "2026-09-23",
+            "index": 101.49189499354469,
+            "drawdown": 0,
+            "ma20": 13771.3
+          },
+          {
+            "date": "2026-09-24",
+            "index": 101.73576244441256,
+            "drawdown": 0,
+            "ma20": 13808.5
+          },
+          {
+            "date": "2026-09-25",
+            "index": 101.92224931860565,
+            "drawdown": 0,
+            "ma20": 13842.35
+          },
+          {
+            "date": "2026-09-28",
+            "index": 101.9581121790274,
+            "drawdown": 0,
+            "ma20": 13871.8
+          },
+          {
+            "date": "2026-09-29",
+            "index": 101.64969157940038,
+            "drawdown": -0.3024973619416116,
+            "ma20": 13893.75
+          },
+          {
+            "date": "2026-09-30",
+            "index": 100.8678812222063,
+            "drawdown": -1.0692930003517453,
+            "ma20": 13903.7
+          },
+          {
+            "date": "2026-10-01",
+            "index": 99.67723425620427,
+            "drawdown": -2.2370735138937725,
+            "ma20": 13898.5
+          },
+          {
+            "date": "2026-10-02",
+            "index": 98.37899870893703,
+            "drawdown": -3.5103763629968365,
+            "ma20": 13879.1
+          },
+          {
+            "date": "2026-10-05",
+            "index": 97.4322191938029,
+            "drawdown": -4.43897291593387,
+            "ma20": 13852.05
+          },
+          {
+            "date": "2026-10-06",
+            "index": 97.23855974752547,
+            "drawdown": -4.628913119943723,
+            "ma20": 13827.9
+          },
+          {
+            "date": "2026-10-07",
+            "index": 97.96298952804476,
+            "drawdown": -3.918396060499474,
+            "ma20": 13817.9
+          },
+          {
+            "date": "2026-10-08",
+            "index": 99.4333668053364,
+            "drawdown": -2.4762574744987664,
+            "ma20": 13829.35
+          },
+          {
+            "date": "2026-10-09",
+            "index": 101.21216468225505,
+            "drawdown": -0.7316215265564585,
+            "ma20": 13862.9
+          },
+          {
+            "date": "2026-10-12",
+            "index": 102.78295796872759,
+            "drawdown": 0,
+            "ma20": 13912.35
+          },
+          {
+            "date": "2026-10-13",
+            "index": 103.75125520011477,
+            "drawdown": 0,
+            "ma20": 13967.3
+          },
+          {
+            "date": "2026-10-14",
+            "index": 104.00946779515135,
+            "drawdown": 0,
+            "ma20": 14017.45
+          },
+          {
+            "date": "2026-10-15",
+            "index": 103.70821976760867,
+            "drawdown": -0.2896351975725797,
+            "ma20": 14056.05
+          },
+          {
+            "date": "2026-10-16",
+            "index": 103.14875914502942,
+            "drawdown": -0.8275291359216563,
+            "ma20": 14081.5
+          },
+          {
+            "date": "2026-10-19",
+            "index": 102.57495337828144,
+            "drawdown": -1.3792152265361013,
+            "ma20": 14095.9
+          },
+          {
+            "date": "2026-10-20",
+            "index": 102.0872184765457,
+            "drawdown": -1.8481484035583806,
+            "ma20": 14102.5
+          },
+          {
+            "date": "2026-10-21",
+            "index": 101.61382871897861,
+            "drawdown": -2.3032894283152916,
+            "ma20": 14103.35
+          },
+          {
+            "date": "2026-10-22",
+            "index": 101.04002295223067,
+            "drawdown": -2.8549755189297255,
+            "ma20": 14098.5
+          },
+          {
+            "date": "2026-10-23",
+            "index": 100.35145603213311,
+            "drawdown": -3.5169988276670616,
+            "ma20": 14087.55
+          },
+          {
+            "date": "2026-10-26",
+            "index": 99.70592454454167,
+            "drawdown": -4.137645679608304,
+            "ma20": 14071.85
+          },
+          {
+            "date": "2026-10-27",
+            "index": 99.41184908908335,
+            "drawdown": -4.420384801048205,
+            "ma20": 14056.25
+          },
+          {
+            "date": "2026-10-28",
+            "index": 99.75613254913212,
+            "drawdown": -4.089373146679542,
+            "ma20": 14048.5
+          },
+          {
+            "date": "2026-10-29",
+            "index": 100.84636350595324,
+            "drawdown": -3.0411695745121037,
+            "ma20": 14056.65
+          },
+          {
+            "date": "2026-10-30",
+            "index": 102.51757280160665,
+            "drawdown": -1.4343838355975413,
+            "ma20": 14085.5
+          },
+          {
+            "date": "2026-11-02",
+            "index": 104.30354325060966,
+            "drawdown": 0,
+            "ma20": 14133.4
+          },
+          {
+            "date": "2026-11-03",
+            "index": 105.69502223497346,
+            "drawdown": 0,
+            "ma20": 14192.35
+          },
+          {
+            "date": "2026-11-04",
+            "index": 106.29034571797446,
+            "drawdown": 0,
+            "ma20": 14250.4
+          },
+          {
+            "date": "2026-11-05",
+            "index": 105.98909769043179,
+            "drawdown": -0.28341993386867825,
+            "ma20": 14296.1
+          },
+          {
+            "date": "2026-11-06",
+            "index": 105.01362788696026,
+            "drawdown": -1.2011606721101242,
+            "ma20": 14322.6
+          }
+        ]
+      }
+    ],
+    "correlation": [
+      {
+        "symbol": "DEMO_A",
+        "values": [
+          {
+            "symbol": "DEMO_A",
+            "value": 1,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_B",
+            "value": -0.18406973254455436,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_C",
+            "value": -0.2900770988237126,
+            "n": 59
+          }
+        ]
+      },
+      {
+        "symbol": "DEMO_B",
+        "values": [
+          {
+            "symbol": "DEMO_A",
+            "value": -0.18406973254455436,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_B",
+            "value": 1,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_C",
+            "value": -0.21416335448781715,
+            "n": 59
+          }
+        ]
+      },
+      {
+        "symbol": "DEMO_C",
+        "values": [
+          {
+            "symbol": "DEMO_A",
+            "value": -0.2900770988237126,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_B",
+            "value": -0.21416335448781715,
+            "n": 59
+          },
+          {
+            "symbol": "DEMO_C",
+            "value": 1,
+            "n": 59
+          }
+        ]
+      }
+    ],
+    "method": "日简单收益率；样本标准差 × √252；相关系数仅使用共同收益日期。"
+  },
+  "comparison": {
+    "symbol": "DEMO_A",
+    "baseline": [
+      {
+        "date": "2026-08-17",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1498511,
+        "pnlMinor": -1489,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10200,
+            "priceDate": "2026-08-17"
+          }
+        }
+      },
+      {
+        "date": "2026-08-18",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1519389,
+        "pnlMinor": 19389,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10343,
+            "priceDate": "2026-08-18"
+          }
+        }
+      },
+      {
+        "date": "2026-08-19",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1534573,
+        "pnlMinor": 34573,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10447,
+            "priceDate": "2026-08-19"
+          }
+        }
+      },
+      {
+        "date": "2026-08-20",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1541289,
+        "pnlMinor": 41289,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10493,
+            "priceDate": "2026-08-20"
+          }
+        }
+      },
+      {
+        "date": "2026-08-21",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1540267,
+        "pnlMinor": 40267,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10486,
+            "priceDate": "2026-08-21"
+          }
+        }
+      },
+      {
+        "date": "2026-08-24",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1535595,
+        "pnlMinor": 35595,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10454,
+            "priceDate": "2026-08-24"
+          }
+        }
+      },
+      {
+        "date": "2026-08-25",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1531799,
+        "pnlMinor": 31799,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10428,
+            "priceDate": "2026-08-25"
+          }
+        }
+      },
+      {
+        "date": "2026-08-26",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1531361,
+        "pnlMinor": 31361,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10425,
+            "priceDate": "2026-08-26"
+          }
+        }
+      },
+      {
+        "date": "2026-08-27",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1533113,
+        "pnlMinor": 33113,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10437,
+            "priceDate": "2026-08-27"
+          }
+        }
+      },
+      {
+        "date": "2026-08-28",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1532967,
+        "pnlMinor": 32967,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10436,
+            "priceDate": "2026-08-28"
+          }
+        }
+      },
+      {
+        "date": "2026-08-31",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1527127,
+        "pnlMinor": 27127,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10396,
+            "priceDate": "2026-08-31"
+          }
+        }
+      },
+      {
+        "date": "2026-09-01",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1513695,
+        "pnlMinor": 13695,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10304,
+            "priceDate": "2026-09-01"
+          }
+        }
+      },
+      {
+        "date": "2026-09-02",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1495007,
+        "pnlMinor": -4993,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10176,
+            "priceDate": "2026-09-02"
+          }
+        }
+      },
+      {
+        "date": "2026-09-03",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1476319,
+        "pnlMinor": -23681,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10048,
+            "priceDate": "2026-09-03"
+          }
+        }
+      },
+      {
+        "date": "2026-09-04",
+        "cashMinor": 9311,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1463325,
+        "pnlMinor": -36675,
+        "holdings": {
+          "DEMO_A": 146
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9959,
+            "priceDate": "2026-09-04"
+          }
+        }
+      },
+      {
+        "date": "2026-09-07",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1859268,
+        "pnlMinor": -40732,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9934,
+            "priceDate": "2026-09-07"
+          }
+        }
+      },
+      {
+        "date": "2026-09-08",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1866000,
+        "pnlMinor": -34000,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9970,
+            "priceDate": "2026-09-08"
+          }
+        }
+      },
+      {
+        "date": "2026-09-09",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1879464,
+        "pnlMinor": -20536,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10042,
+            "priceDate": "2026-09-09"
+          }
+        }
+      },
+      {
+        "date": "2026-09-10",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1892741,
+        "pnlMinor": -7259,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10113,
+            "priceDate": "2026-09-10"
+          }
+        }
+      },
+      {
+        "date": "2026-09-11",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1901904,
+        "pnlMinor": 1904,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10162,
+            "priceDate": "2026-09-11"
+          }
+        }
+      },
+      {
+        "date": "2026-09-14",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1906392,
+        "pnlMinor": 6392,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10186,
+            "priceDate": "2026-09-14"
+          }
+        }
+      },
+      {
+        "date": "2026-09-15",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1910319,
+        "pnlMinor": 10319,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10207,
+            "priceDate": "2026-09-15"
+          }
+        }
+      },
+      {
+        "date": "2026-09-16",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1919108,
+        "pnlMinor": 19108,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10254,
+            "priceDate": "2026-09-16"
+          }
+        }
+      },
+      {
+        "date": "2026-09-17",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1935564,
+        "pnlMinor": 35564,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10342,
+            "priceDate": "2026-09-17"
+          }
+        }
+      },
+      {
+        "date": "2026-09-18",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1958004,
+        "pnlMinor": 58004,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10462,
+            "priceDate": "2026-09-18"
+          }
+        }
+      },
+      {
+        "date": "2026-09-21",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1980818,
+        "pnlMinor": 80818,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10584,
+            "priceDate": "2026-09-21"
+          }
+        }
+      },
+      {
+        "date": "2026-09-22",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1996713,
+        "pnlMinor": 96713,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10669,
+            "priceDate": "2026-09-22"
+          }
+        }
+      },
+      {
+        "date": "2026-09-23",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 2000266,
+        "pnlMinor": 100266,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10688,
+            "priceDate": "2026-09-23"
+          }
+        }
+      },
+      {
+        "date": "2026-09-24",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1991477,
+        "pnlMinor": 91477,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10641,
+            "priceDate": "2026-09-24"
+          }
+        }
+      },
+      {
+        "date": "2026-09-25",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1974834,
+        "pnlMinor": 74834,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10552,
+            "priceDate": "2026-09-25"
+          }
+        }
+      },
+      {
+        "date": "2026-09-28",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1957069,
+        "pnlMinor": 57069,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10457,
+            "priceDate": "2026-09-28"
+          }
+        }
+      },
+      {
+        "date": "2026-09-29",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1944166,
+        "pnlMinor": 44166,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10388,
+            "priceDate": "2026-09-29"
+          }
+        }
+      },
+      {
+        "date": "2026-09-30",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1937621,
+        "pnlMinor": 37621,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10353,
+            "priceDate": "2026-09-30"
+          }
+        }
+      },
+      {
+        "date": "2026-10-01",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1934442,
+        "pnlMinor": 34442,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10336,
+            "priceDate": "2026-10-01"
+          }
+        }
+      },
+      {
+        "date": "2026-10-02",
+        "cashMinor": 1610,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1929580,
+        "pnlMinor": 29580,
+        "holdings": {
+          "DEMO_A": 187
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10310,
+            "priceDate": "2026-10-02"
+          }
+        }
+      },
+      {
+        "date": "2026-10-05",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1819005,
+        "pnlMinor": 19005,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10254,
+            "priceDate": "2026-10-05"
+          }
+        }
+      },
+      {
+        "date": "2026-10-06",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1803960,
+        "pnlMinor": 3960,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10169,
+            "priceDate": "2026-10-06"
+          }
+        }
+      },
+      {
+        "date": "2026-10-07",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1788384,
+        "pnlMinor": -11616,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10081,
+            "priceDate": "2026-10-07"
+          }
+        }
+      },
+      {
+        "date": "2026-10-08",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1778472,
+        "pnlMinor": -21528,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10025,
+            "priceDate": "2026-10-08"
+          }
+        }
+      },
+      {
+        "date": "2026-10-09",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1779534,
+        "pnlMinor": -20466,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10031,
+            "priceDate": "2026-10-09"
+          }
+        }
+      },
+      {
+        "date": "2026-10-12",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1792809,
+        "pnlMinor": -7191,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10106,
+            "priceDate": "2026-10-12"
+          }
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1814049,
+        "pnlMinor": 14049,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10226,
+            "priceDate": "2026-10-13"
+          }
+        }
+      },
+      {
+        "date": "2026-10-14",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1836882,
+        "pnlMinor": 36882,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10355,
+            "priceDate": "2026-10-14"
+          }
+        }
+      },
+      {
+        "date": "2026-10-15",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1854582,
+        "pnlMinor": 54582,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10455,
+            "priceDate": "2026-10-15"
+          }
+        }
+      },
+      {
+        "date": "2026-10-16",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1864848,
+        "pnlMinor": 64848,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10513,
+            "priceDate": "2026-10-16"
+          }
+        }
+      },
+      {
+        "date": "2026-10-19",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1868919,
+        "pnlMinor": 68919,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10536,
+            "priceDate": "2026-10-19"
+          }
+        }
+      },
+      {
+        "date": "2026-10-20",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1871928,
+        "pnlMinor": 71928,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10553,
+            "priceDate": "2026-10-20"
+          }
+        }
+      },
+      {
+        "date": "2026-10-21",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1878300,
+        "pnlMinor": 78300,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10589,
+            "priceDate": "2026-10-21"
+          }
+        }
+      },
+      {
+        "date": "2026-10-22",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1888920,
+        "pnlMinor": 88920,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10649,
+            "priceDate": "2026-10-22"
+          }
+        }
+      },
+      {
+        "date": "2026-10-23",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1900956,
+        "pnlMinor": 100956,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10717,
+            "priceDate": "2026-10-23"
+          }
+        }
+      },
+      {
+        "date": "2026-10-26",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1908567,
+        "pnlMinor": 108567,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10760,
+            "priceDate": "2026-10-26"
+          }
+        }
+      },
+      {
+        "date": "2026-10-27",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1906443,
+        "pnlMinor": 106443,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10748,
+            "priceDate": "2026-10-27"
+          }
+        }
+      },
+      {
+        "date": "2026-10-28",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1892637,
+        "pnlMinor": 92637,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10670,
+            "priceDate": "2026-10-28"
+          }
+        }
+      },
+      {
+        "date": "2026-10-29",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1870689,
+        "pnlMinor": 70689,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10546,
+            "priceDate": "2026-10-29"
+          }
+        }
+      },
+      {
+        "date": "2026-10-30",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1846971,
+        "pnlMinor": 46971,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10412,
+            "priceDate": "2026-10-30"
+          }
+        }
+      },
+      {
+        "date": "2026-11-02",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1828563,
+        "pnlMinor": 28563,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10308,
+            "priceDate": "2026-11-02"
+          }
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1819359,
+        "pnlMinor": 19359,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10256,
+            "priceDate": "2026-11-03"
+          }
+        }
+      },
+      {
+        "date": "2026-11-04",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1818474,
+        "pnlMinor": 18474,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10251,
+            "priceDate": "2026-11-04"
+          }
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1821306,
+        "pnlMinor": 21306,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10267,
+            "priceDate": "2026-11-05"
+          }
+        }
+      },
+      {
+        "date": "2026-11-06",
+        "cashMinor": 4047,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1822899,
+        "pnlMinor": 22899,
+        "holdings": {
+          "DEMO_A": 177
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10276,
+            "priceDate": "2026-11-06"
+          }
+        }
+      }
+    ],
+    "actual": [
+      {
+        "date": "2026-08-17",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1499541,
+        "pnlMinor": -459,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10200,
+            "priceDate": "2026-08-17"
+          },
+          "DEMO_B": {
+            "closeMinor": 9067,
+            "priceDate": "2026-08-17"
+          },
+          "DEMO_C": {
+            "closeMinor": 13942,
+            "priceDate": "2026-08-17"
+          }
+        }
+      },
+      {
+        "date": "2026-08-18",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1505976,
+        "pnlMinor": 5976,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10343,
+            "priceDate": "2026-08-18"
+          },
+          "DEMO_B": {
+            "closeMinor": 9114,
+            "priceDate": "2026-08-18"
+          },
+          "DEMO_C": {
+            "closeMinor": 13801,
+            "priceDate": "2026-08-18"
+          }
+        }
+      },
+      {
+        "date": "2026-08-19",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1510656,
+        "pnlMinor": 10656,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10447,
+            "priceDate": "2026-08-19"
+          },
+          "DEMO_B": {
+            "closeMinor": 9092,
+            "priceDate": "2026-08-19"
+          },
+          "DEMO_C": {
+            "closeMinor": 13593,
+            "priceDate": "2026-08-19"
+          }
+        }
+      },
+      {
+        "date": "2026-08-20",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1512726,
+        "pnlMinor": 12726,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10493,
+            "priceDate": "2026-08-20"
+          },
+          "DEMO_B": {
+            "closeMinor": 9015,
+            "priceDate": "2026-08-20"
+          },
+          "DEMO_C": {
+            "closeMinor": 13389,
+            "priceDate": "2026-08-20"
+          }
+        }
+      },
+      {
+        "date": "2026-08-21",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1512411,
+        "pnlMinor": 12411,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10486,
+            "priceDate": "2026-08-21"
+          },
+          "DEMO_B": {
+            "closeMinor": 8918,
+            "priceDate": "2026-08-21"
+          },
+          "DEMO_C": {
+            "closeMinor": 13252,
+            "priceDate": "2026-08-21"
+          }
+        }
+      },
+      {
+        "date": "2026-08-24",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1510971,
+        "pnlMinor": 10971,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10454,
+            "priceDate": "2026-08-24"
+          },
+          "DEMO_B": {
+            "closeMinor": 8833,
+            "priceDate": "2026-08-24"
+          },
+          "DEMO_C": {
+            "closeMinor": 13209,
+            "priceDate": "2026-08-24"
+          }
+        }
+      },
+      {
+        "date": "2026-08-25",
+        "cashMinor": 1040541,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1509801,
+        "pnlMinor": 9801,
+        "holdings": {
+          "DEMO_A": 45
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10428,
+            "priceDate": "2026-08-25"
+          },
+          "DEMO_B": {
+            "closeMinor": 8776,
+            "priceDate": "2026-08-25"
+          },
+          "DEMO_C": {
+            "closeMinor": 13250,
+            "priceDate": "2026-08-25"
+          }
+        }
+      },
+      {
+        "date": "2026-08-26",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1509360,
+        "pnlMinor": 9360,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10425,
+            "priceDate": "2026-08-26"
+          },
+          "DEMO_B": {
+            "closeMinor": 8745,
+            "priceDate": "2026-08-26"
+          },
+          "DEMO_C": {
+            "closeMinor": 13339,
+            "priceDate": "2026-08-26"
+          }
+        }
+      },
+      {
+        "date": "2026-08-27",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1509060,
+        "pnlMinor": 9060,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10437,
+            "priceDate": "2026-08-27"
+          },
+          "DEMO_B": {
+            "closeMinor": 8721,
+            "priceDate": "2026-08-27"
+          },
+          "DEMO_C": {
+            "closeMinor": 13440,
+            "priceDate": "2026-08-27"
+          }
+        }
+      },
+      {
+        "date": "2026-08-28",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1507825,
+        "pnlMinor": 7825,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10436,
+            "priceDate": "2026-08-28"
+          },
+          "DEMO_B": {
+            "closeMinor": 8687,
+            "priceDate": "2026-08-28"
+          },
+          "DEMO_C": {
+            "closeMinor": 13533,
+            "priceDate": "2026-08-28"
+          }
+        }
+      },
+      {
+        "date": "2026-08-31",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1504450,
+        "pnlMinor": 4450,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10396,
+            "priceDate": "2026-08-31"
+          },
+          "DEMO_B": {
+            "closeMinor": 8642,
+            "priceDate": "2026-08-31"
+          },
+          "DEMO_C": {
+            "closeMinor": 13626,
+            "priceDate": "2026-08-31"
+          }
+        }
+      },
+      {
+        "date": "2026-09-01",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1498910,
+        "pnlMinor": -1090,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10304,
+            "priceDate": "2026-09-01"
+          },
+          "DEMO_B": {
+            "closeMinor": 8602,
+            "priceDate": "2026-09-01"
+          },
+          "DEMO_C": {
+            "closeMinor": 13733,
+            "priceDate": "2026-09-01"
+          }
+        }
+      },
+      {
+        "date": "2026-09-02",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1492905,
+        "pnlMinor": -7095,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10176,
+            "priceDate": "2026-09-02"
+          },
+          "DEMO_B": {
+            "closeMinor": 8595,
+            "priceDate": "2026-09-02"
+          },
+          "DEMO_C": {
+            "closeMinor": 13864,
+            "priceDate": "2026-09-02"
+          }
+        }
+      },
+      {
+        "date": "2026-09-03",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1488790,
+        "pnlMinor": -11210,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10048,
+            "priceDate": "2026-09-03"
+          },
+          "DEMO_B": {
+            "closeMinor": 8642,
+            "priceDate": "2026-09-03"
+          },
+          "DEMO_C": {
+            "closeMinor": 14001,
+            "priceDate": "2026-09-03"
+          }
+        }
+      },
+      {
+        "date": "2026-09-04",
+        "cashMinor": 734160,
+        "netContributionsMinor": 1500000,
+        "assetsMinor": 1488495,
+        "pnlMinor": -11505,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9959,
+            "priceDate": "2026-09-04"
+          },
+          "DEMO_B": {
+            "closeMinor": 8748,
+            "priceDate": "2026-09-04"
+          },
+          "DEMO_C": {
+            "closeMinor": 14104,
+            "priceDate": "2026-09-04"
+          }
+        }
+      },
+      {
+        "date": "2026-09-07",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1891959,
+        "pnlMinor": -8041,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9934,
+            "priceDate": "2026-09-07"
+          },
+          "DEMO_B": {
+            "closeMinor": 8888,
+            "priceDate": "2026-09-07"
+          },
+          "DEMO_C": {
+            "closeMinor": 14125,
+            "priceDate": "2026-09-07"
+          }
+        }
+      },
+      {
+        "date": "2026-09-08",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1896539,
+        "pnlMinor": -3461,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 9970,
+            "priceDate": "2026-09-08"
+          },
+          "DEMO_B": {
+            "closeMinor": 9026,
+            "priceDate": "2026-09-08"
+          },
+          "DEMO_C": {
+            "closeMinor": 14040,
+            "priceDate": "2026-09-08"
+          }
+        }
+      },
+      {
+        "date": "2026-09-09",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1899135,
+        "pnlMinor": -865,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10042,
+            "priceDate": "2026-09-09"
+          },
+          "DEMO_B": {
+            "closeMinor": 9122,
+            "priceDate": "2026-09-09"
+          },
+          "DEMO_C": {
+            "closeMinor": 13858,
+            "priceDate": "2026-09-09"
+          }
+        }
+      },
+      {
+        "date": "2026-09-10",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1898557,
+        "pnlMinor": -1443,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10113,
+            "priceDate": "2026-09-10"
+          },
+          "DEMO_B": {
+            "closeMinor": 9155,
+            "priceDate": "2026-09-10"
+          },
+          "DEMO_C": {
+            "closeMinor": 13634,
+            "priceDate": "2026-09-10"
+          }
+        }
+      },
+      {
+        "date": "2026-09-11",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1895584,
+        "pnlMinor": -4416,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10162,
+            "priceDate": "2026-09-11"
+          },
+          "DEMO_B": {
+            "closeMinor": 9129,
+            "priceDate": "2026-09-11"
+          },
+          "DEMO_C": {
+            "closeMinor": 13440,
+            "priceDate": "2026-09-11"
+          }
+        }
+      },
+      {
+        "date": "2026-09-14",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1892351,
+        "pnlMinor": -7649,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10186,
+            "priceDate": "2026-09-14"
+          },
+          "DEMO_B": {
+            "closeMinor": 9068,
+            "priceDate": "2026-09-14"
+          },
+          "DEMO_C": {
+            "closeMinor": 13341,
+            "priceDate": "2026-09-14"
+          }
+        }
+      },
+      {
+        "date": "2026-09-15",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1891571,
+        "pnlMinor": -8429,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10207,
+            "priceDate": "2026-09-15"
+          },
+          "DEMO_B": {
+            "closeMinor": 9003,
+            "priceDate": "2026-09-15"
+          },
+          "DEMO_C": {
+            "closeMinor": 13366,
+            "priceDate": "2026-09-15"
+          }
+        }
+      },
+      {
+        "date": "2026-09-16",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1894840,
+        "pnlMinor": -5160,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10254,
+            "priceDate": "2026-09-16"
+          },
+          "DEMO_B": {
+            "closeMinor": 8953,
+            "priceDate": "2026-09-16"
+          },
+          "DEMO_C": {
+            "closeMinor": 13498,
+            "priceDate": "2026-09-16"
+          }
+        }
+      },
+      {
+        "date": "2026-09-17",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1901768,
+        "pnlMinor": 1768,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10342,
+            "priceDate": "2026-09-17"
+          },
+          "DEMO_B": {
+            "closeMinor": 8919,
+            "priceDate": "2026-09-17"
+          },
+          "DEMO_C": {
+            "closeMinor": 13687,
+            "priceDate": "2026-09-17"
+          }
+        }
+      },
+      {
+        "date": "2026-09-18",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1910083,
+        "pnlMinor": 10083,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10462,
+            "priceDate": "2026-09-18"
+          },
+          "DEMO_B": {
+            "closeMinor": 8886,
+            "priceDate": "2026-09-18"
+          },
+          "DEMO_C": {
+            "closeMinor": 13872,
+            "priceDate": "2026-09-18"
+          }
+        }
+      },
+      {
+        "date": "2026-09-21",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1916960,
+        "pnlMinor": 16960,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10584,
+            "priceDate": "2026-09-21"
+          },
+          "DEMO_B": {
+            "closeMinor": 8837,
+            "priceDate": "2026-09-21"
+          },
+          "DEMO_C": {
+            "closeMinor": 14013,
+            "priceDate": "2026-09-21"
+          }
+        }
+      },
+      {
+        "date": "2026-09-22",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1920201,
+        "pnlMinor": 20201,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10669,
+            "priceDate": "2026-09-22"
+          },
+          "DEMO_B": {
+            "closeMinor": 8765,
+            "priceDate": "2026-09-22"
+          },
+          "DEMO_C": {
+            "closeMinor": 14101,
+            "priceDate": "2026-09-22"
+          }
+        }
+      },
+      {
+        "date": "2026-09-23",
+        "cashMinor": 823099,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1919369,
+        "pnlMinor": 19369,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10688,
+            "priceDate": "2026-09-23"
+          },
+          "DEMO_B": {
+            "closeMinor": 8686,
+            "priceDate": "2026-09-23"
+          },
+          "DEMO_C": {
+            "closeMinor": 14150,
+            "priceDate": "2026-09-23"
+          }
+        }
+      },
+      {
+        "date": "2026-09-24",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1915936,
+        "pnlMinor": 15936,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10641,
+            "priceDate": "2026-09-24"
+          },
+          "DEMO_B": {
+            "closeMinor": 8630,
+            "priceDate": "2026-09-24"
+          },
+          "DEMO_C": {
+            "closeMinor": 14184,
+            "priceDate": "2026-09-24"
+          }
+        }
+      },
+      {
+        "date": "2026-09-25",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1913253,
+        "pnlMinor": 13253,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10552,
+            "priceDate": "2026-09-25"
+          },
+          "DEMO_B": {
+            "closeMinor": 8626,
+            "priceDate": "2026-09-25"
+          },
+          "DEMO_C": {
+            "closeMinor": 14210,
+            "priceDate": "2026-09-25"
+          }
+        }
+      },
+      {
+        "date": "2026-09-28",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1912278,
+        "pnlMinor": 12278,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10457,
+            "priceDate": "2026-09-28"
+          },
+          "DEMO_B": {
+            "closeMinor": 8690,
+            "priceDate": "2026-09-28"
+          },
+          "DEMO_C": {
+            "closeMinor": 14215,
+            "priceDate": "2026-09-28"
+          }
+        }
+      },
+      {
+        "date": "2026-09-29",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1913117,
+        "pnlMinor": 13117,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10388,
+            "priceDate": "2026-09-29"
+          },
+          "DEMO_B": {
+            "closeMinor": 8810,
+            "priceDate": "2026-09-29"
+          },
+          "DEMO_C": {
+            "closeMinor": 14172,
+            "priceDate": "2026-09-29"
+          }
+        }
+      },
+      {
+        "date": "2026-09-30",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1914464,
+        "pnlMinor": 14464,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10353,
+            "priceDate": "2026-09-30"
+          },
+          "DEMO_B": {
+            "closeMinor": 8952,
+            "priceDate": "2026-09-30"
+          },
+          "DEMO_C": {
+            "closeMinor": 14063,
+            "priceDate": "2026-09-30"
+          }
+        }
+      },
+      {
+        "date": "2026-10-01",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1914592,
+        "pnlMinor": 14592,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10336,
+            "priceDate": "2026-10-01"
+          },
+          "DEMO_B": {
+            "closeMinor": 9077,
+            "priceDate": "2026-10-01"
+          },
+          "DEMO_C": {
+            "closeMinor": 13897,
+            "priceDate": "2026-10-01"
+          }
+        }
+      },
+      {
+        "date": "2026-10-02",
+        "cashMinor": 929403,
+        "netContributionsMinor": 1900000,
+        "assetsMinor": 1912395,
+        "pnlMinor": 12395,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10310,
+            "priceDate": "2026-10-02"
+          },
+          "DEMO_B": {
+            "closeMinor": 9154,
+            "priceDate": "2026-10-02"
+          },
+          "DEMO_C": {
+            "closeMinor": 13716,
+            "priceDate": "2026-10-02"
+          }
+        }
+      },
+      {
+        "date": "2026-10-05",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1808301,
+        "pnlMinor": 8301,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10254,
+            "priceDate": "2026-10-05"
+          },
+          "DEMO_B": {
+            "closeMinor": 9176,
+            "priceDate": "2026-10-05"
+          },
+          "DEMO_C": {
+            "closeMinor": 13584,
+            "priceDate": "2026-10-05"
+          }
+        }
+      },
+      {
+        "date": "2026-10-06",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1804102,
+        "pnlMinor": 4102,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10169,
+            "priceDate": "2026-10-06"
+          },
+          "DEMO_B": {
+            "closeMinor": 9158,
+            "priceDate": "2026-10-06"
+          },
+          "DEMO_C": {
+            "closeMinor": 13557,
+            "priceDate": "2026-10-06"
+          }
+        }
+      },
+      {
+        "date": "2026-10-07",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1802124,
+        "pnlMinor": 2124,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10081,
+            "priceDate": "2026-10-07"
+          },
+          "DEMO_B": {
+            "closeMinor": 9126,
+            "priceDate": "2026-10-07"
+          },
+          "DEMO_C": {
+            "closeMinor": 13658,
+            "priceDate": "2026-10-07"
+          }
+        }
+      },
+      {
+        "date": "2026-10-08",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1803764,
+        "pnlMinor": 3764,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10025,
+            "priceDate": "2026-10-08"
+          },
+          "DEMO_B": {
+            "closeMinor": 9100,
+            "priceDate": "2026-10-08"
+          },
+          "DEMO_C": {
+            "closeMinor": 13863,
+            "priceDate": "2026-10-08"
+          }
+        }
+      },
+      {
+        "date": "2026-10-09",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1808870,
+        "pnlMinor": 8870,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10031,
+            "priceDate": "2026-10-09"
+          },
+          "DEMO_B": {
+            "closeMinor": 9084,
+            "priceDate": "2026-10-09"
+          },
+          "DEMO_C": {
+            "closeMinor": 14111,
+            "priceDate": "2026-10-09"
+          }
+        }
+      },
+      {
+        "date": "2026-10-12",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1815578,
+        "pnlMinor": 15578,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10106,
+            "priceDate": "2026-10-12"
+          },
+          "DEMO_B": {
+            "closeMinor": 9063,
+            "priceDate": "2026-10-12"
+          },
+          "DEMO_C": {
+            "closeMinor": 14330,
+            "priceDate": "2026-10-12"
+          }
+        }
+      },
+      {
+        "date": "2026-10-13",
+        "cashMinor": 829403,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1821173,
+        "pnlMinor": 21173,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 35,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10226,
+            "priceDate": "2026-10-13"
+          },
+          "DEMO_B": {
+            "closeMinor": 9018,
+            "priceDate": "2026-10-13"
+          },
+          "DEMO_C": {
+            "closeMinor": 14465,
+            "priceDate": "2026-10-13"
+          }
+        }
+      },
+      {
+        "date": "2026-10-14",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1823466,
+        "pnlMinor": 23466,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10355,
+            "priceDate": "2026-10-14"
+          },
+          "DEMO_B": {
+            "closeMinor": 8937,
+            "priceDate": "2026-10-14"
+          },
+          "DEMO_C": {
+            "closeMinor": 14501,
+            "priceDate": "2026-10-14"
+          }
+        }
+      },
+      {
+        "date": "2026-10-15",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1820322,
+        "pnlMinor": 20322,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10455,
+            "priceDate": "2026-10-15"
+          },
+          "DEMO_B": {
+            "closeMinor": 8833,
+            "priceDate": "2026-10-15"
+          },
+          "DEMO_C": {
+            "closeMinor": 14459,
+            "priceDate": "2026-10-15"
+          }
+        }
+      },
+      {
+        "date": "2026-10-16",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1815136,
+        "pnlMinor": 15136,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10513,
+            "priceDate": "2026-10-16"
+          },
+          "DEMO_B": {
+            "closeMinor": 8733,
+            "priceDate": "2026-10-16"
+          },
+          "DEMO_C": {
+            "closeMinor": 14381,
+            "priceDate": "2026-10-16"
+          }
+        }
+      },
+      {
+        "date": "2026-10-19",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1810936,
+        "pnlMinor": 10936,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10536,
+            "priceDate": "2026-10-19"
+          },
+          "DEMO_B": {
+            "closeMinor": 8674,
+            "priceDate": "2026-10-19"
+          },
+          "DEMO_C": {
+            "closeMinor": 14301,
+            "priceDate": "2026-10-19"
+          }
+        }
+      },
+      {
+        "date": "2026-10-20",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1810475,
+        "pnlMinor": 10475,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10553,
+            "priceDate": "2026-10-20"
+          },
+          "DEMO_B": {
+            "closeMinor": 8682,
+            "priceDate": "2026-10-20"
+          },
+          "DEMO_C": {
+            "closeMinor": 14233,
+            "priceDate": "2026-10-20"
+          }
+        }
+      },
+      {
+        "date": "2026-10-21",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1814463,
+        "pnlMinor": 14463,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10589,
+            "priceDate": "2026-10-21"
+          },
+          "DEMO_B": {
+            "closeMinor": 8758,
+            "priceDate": "2026-10-21"
+          },
+          "DEMO_C": {
+            "closeMinor": 14167,
+            "priceDate": "2026-10-21"
+          }
+        }
+      },
+      {
+        "date": "2026-10-22",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1821513,
+        "pnlMinor": 21513,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10649,
+            "priceDate": "2026-10-22"
+          },
+          "DEMO_B": {
+            "closeMinor": 8880,
+            "priceDate": "2026-10-22"
+          },
+          "DEMO_C": {
+            "closeMinor": 14087,
+            "priceDate": "2026-10-22"
+          }
+        }
+      },
+      {
+        "date": "2026-10-23",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1828766,
+        "pnlMinor": 28766,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10717,
+            "priceDate": "2026-10-23"
+          },
+          "DEMO_B": {
+            "closeMinor": 9007,
+            "priceDate": "2026-10-23"
+          },
+          "DEMO_C": {
+            "closeMinor": 13991,
+            "priceDate": "2026-10-23"
+          }
+        }
+      },
+      {
+        "date": "2026-10-26",
+        "cashMinor": 650484,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1833846,
+        "pnlMinor": 33846,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 22
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10760,
+            "priceDate": "2026-10-26"
+          },
+          "DEMO_B": {
+            "closeMinor": 9108,
+            "priceDate": "2026-10-26"
+          },
+          "DEMO_C": {
+            "closeMinor": 13901,
+            "priceDate": "2026-10-26"
+          }
+        }
+      },
+      {
+        "date": "2026-10-27",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1835548,
+        "pnlMinor": 35548,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10748,
+            "priceDate": "2026-10-27"
+          },
+          "DEMO_B": {
+            "closeMinor": 9165,
+            "priceDate": "2026-10-27"
+          },
+          "DEMO_C": {
+            "closeMinor": 13860,
+            "priceDate": "2026-10-27"
+          }
+        }
+      },
+      {
+        "date": "2026-10-28",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1834590,
+        "pnlMinor": 34590,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10670,
+            "priceDate": "2026-10-28"
+          },
+          "DEMO_B": {
+            "closeMinor": 9185,
+            "priceDate": "2026-10-28"
+          },
+          "DEMO_C": {
+            "closeMinor": 13908,
+            "priceDate": "2026-10-28"
+          }
+        }
+      },
+      {
+        "date": "2026-10-29",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1832598,
+        "pnlMinor": 32598,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10546,
+            "priceDate": "2026-10-29"
+          },
+          "DEMO_B": {
+            "closeMinor": 9189,
+            "priceDate": "2026-10-29"
+          },
+          "DEMO_C": {
+            "closeMinor": 14060,
+            "priceDate": "2026-10-29"
+          }
+        }
+      },
+      {
+        "date": "2026-10-30",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1831555,
+        "pnlMinor": 31555,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10412,
+            "priceDate": "2026-10-30"
+          },
+          "DEMO_B": {
+            "closeMinor": 9196,
+            "priceDate": "2026-10-30"
+          },
+          "DEMO_C": {
+            "closeMinor": 14293,
+            "priceDate": "2026-10-30"
+          }
+        }
+      },
+      {
+        "date": "2026-11-02",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1832171,
+        "pnlMinor": 32171,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10308,
+            "priceDate": "2026-11-02"
+          },
+          "DEMO_B": {
+            "closeMinor": 9210,
+            "priceDate": "2026-11-02"
+          },
+          "DEMO_C": {
+            "closeMinor": 14542,
+            "priceDate": "2026-11-02"
+          }
+        }
+      },
+      {
+        "date": "2026-11-03",
+        "cashMinor": 761253,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1833507,
+        "pnlMinor": 33507,
+        "holdings": {
+          "DEMO_A": 35,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10256,
+            "priceDate": "2026-11-03"
+          },
+          "DEMO_B": {
+            "closeMinor": 9218,
+            "priceDate": "2026-11-03"
+          },
+          "DEMO_C": {
+            "closeMinor": 14736,
+            "priceDate": "2026-11-03"
+          }
+        }
+      },
+      {
+        "date": "2026-11-04",
+        "cashMinor": 658640,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1833291,
+        "pnlMinor": 33291,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10251,
+            "priceDate": "2026-11-04"
+          },
+          "DEMO_B": {
+            "closeMinor": 9198,
+            "priceDate": "2026-11-04"
+          },
+          "DEMO_C": {
+            "closeMinor": 14819,
+            "priceDate": "2026-11-04"
+          }
+        }
+      },
+      {
+        "date": "2026-11-05",
+        "cashMinor": 658640,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1829793,
+        "pnlMinor": 29793,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10267,
+            "priceDate": "2026-11-05"
+          },
+          "DEMO_B": {
+            "closeMinor": 9132,
+            "priceDate": "2026-11-05"
+          },
+          "DEMO_C": {
+            "closeMinor": 14777,
+            "priceDate": "2026-11-05"
+          }
+        }
+      },
+      {
+        "date": "2026-11-06",
+        "cashMinor": 658640,
+        "netContributionsMinor": 1800000,
+        "assetsMinor": 1822299,
+        "pnlMinor": 22299,
+        "holdings": {
+          "DEMO_A": 45,
+          "DEMO_B": 55,
+          "DEMO_C": 14
+        },
+        "prices": {
+          "DEMO_A": {
+            "closeMinor": 10276,
+            "priceDate": "2026-11-06"
+          },
+          "DEMO_B": {
+            "closeMinor": 9023,
+            "priceDate": "2026-11-06"
+          },
+          "DEMO_C": {
+            "closeMinor": 14641,
+            "priceDate": "2026-11-06"
+          }
+        }
+      }
+    ],
+    "error": null
+  }
+}

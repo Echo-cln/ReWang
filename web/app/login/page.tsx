@@ -1,0 +1,3 @@
+"use client";
+import {useState} from 'react';
+export default function Login(){const [message,M]=useState('');return <main className="login-page"><section><div className="eyebrow">REWANG / ACCOUNT</div><h1>回望</h1><p>让每一次决定都有迹可循。</p><h2>登录研究空间</h2><p className="help-copy">前端演示界面，不验证账户，不发送或保存密码。请勿输入真实凭据。</p><form className="lab-form" onSubmit={e=>{e.preventDefault();M('演示登录成功，即将进入研究空间。');window.location.href='/'}}><label>演示邮箱<input type="email" required placeholder="demo@example.com" autoComplete="off"/></label><label>演示密码<input type="password" minLength={6} required placeholder="任意 6 位以上演示字符" autoComplete="off"/></label><button className="button primary">演示登录</button></form><p role="status">{message}</p><a className="link" href="/">无需登录，直接浏览完整案例 →</a></section></main>}
