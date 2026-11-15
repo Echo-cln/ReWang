@@ -1,0 +1,9 @@
+**/node_modules/
+**/.gradle/
+**/build/
+**/local.properties
+**/.idea/
+**/dist/
+**/.next/
+**/.wrangler/
+**/.sites-runtime/

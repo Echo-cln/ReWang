@@ -1,0 +1,638 @@
+{
+  "AAPL": {
+    "symbol": "AAPL",
+    "items": [
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-09T21:30:40.000Z",
+        "date": "2026-11-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126042798/ef20085077_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 10-K",
+        "form": "10-K",
+        "publishedAt": "2026-11-03T13:05:15.000Z",
+        "date": "2026-11-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-02T21:30:23.000Z",
+        "date": "2026-11-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000024/aapl-20261102.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-07-31T10:01:02.000Z",
+        "date": "2026-07-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-30T20:30:28.000Z",
+        "date": "2026-07-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000018/aapl-20260730.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-05-01T10:01:00.000Z",
+        "date": "2026-05-01",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000013/aapl-20260328.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-30T20:30:41.000Z",
+        "date": "2026-04-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000011/aapl-20260430.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-20T21:29:51.000Z",
+        "date": "2026-04-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126015711/ef20071035_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-02-24T21:55:58.000Z",
+        "date": "2026-02-24",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126006577/ef20060722_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-01-30T11:01:32.000Z",
+        "date": "2026-01-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-01-29T21:30:33.000Z",
+        "date": "2026-01-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000005/aapl-20260129.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Apple · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-01-02T21:30:52.000Z",
+        "date": "2026-01-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/320193/000114036126000199/ef20060722_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:50:59.959110+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0000320193.json"
+  },
+  "MSFT": {
+    "symbol": "MSFT",
+    "items": [
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-05T11:01:52.000Z",
+        "date": "2026-11-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526448357/d177209d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-04T21:01:27.000Z",
+        "date": "2026-11-04",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526447173/d178557d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-28T20:11:03.000Z",
+        "date": "2026-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436149/msft-20261028.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-10-28T20:07:39.000Z",
+        "date": "2026-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-28T20:04:44.000Z",
+        "date": "2026-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436122/msft-20261028.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-09-02T20:30:24.000Z",
+        "date": "2026-09-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 10-K",
+        "form": "10-K",
+        "publishedAt": "2026-07-29T20:08:01.000Z",
+        "date": "2026-07-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-29T20:04:53.000Z",
+        "date": "2026-07-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323632/msft-20260729.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-05T14:36:56.000Z",
+        "date": "2026-06-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526258667/d26760d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-14T20:28:48.000Z",
+        "date": "2026-05-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526224155/d125909d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-04-29T20:06:24.000Z",
+        "date": "2026-04-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191507/msft-20260331.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Microsoft · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-29T20:03:31.000Z",
+        "date": "2026-04-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526191457/msft-20260429.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:50:59.961998+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0000789019.json"
+  },
+  "NVDA": {
+    "symbol": "NVDA",
+    "items": [
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-12T13:52:41.000Z",
+        "date": "2026-11-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-09-03T12:03:56.000Z",
+        "date": "2026-09-03",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-08-26T20:36:00.000Z",
+        "date": "2026-08-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-08-26T20:21:19.000Z",
+        "date": "2026-08-26",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/nvda-20260826.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-08-17T12:41:33.000Z",
+        "date": "2026-08-17",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-02T13:23:16.000Z",
+        "date": "2026-07-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000060/nvda-20260628.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-30T20:27:26.000Z",
+        "date": "2026-06-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000056/nvda-20260624.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-18T20:00:24.000Z",
+        "date": "2026-06-18",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119312526275783/d48176d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-05-20T20:35:52.000Z",
+        "date": "2026-05-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000052/nvda-20260426.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-20T20:21:19.000Z",
+        "date": "2026-05-20",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000051/nvda-20260520.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-08T20:35:07.000Z",
+        "date": "2026-05-08",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000028/nvda-20260507.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "NVIDIA · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-27T20:10:30.000Z",
+        "date": "2026-04-27",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000026/nvda-20260424.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:50:59.992068+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0001045810.json"
+  },
+  "AMZN": {
+    "symbol": "AMZN",
+    "items": [
+      {
+        "title": "Amazon · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-10-29T22:20:46.000Z",
+        "date": "2026-10-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-29T20:05:27.000Z",
+        "date": "2026-10-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20261029.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-09-14T20:45:41.000Z",
+        "date": "2026-09-14",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926107526/tm2624614d5_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-09-09T20:28:21.000Z",
+        "date": "2026-09-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000036/amzn-20260908.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-07-30T22:11:13.000Z",
+        "date": "2026-07-31",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000026/amzn-20260630.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-30T20:06:23.000Z",
+        "date": "2026-07-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000024/amzn-20260730.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-09T20:46:08.000Z",
+        "date": "2026-07-09",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926082293/tm2619352d4_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-12T21:00:28.000Z",
+        "date": "2026-06-12",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926073562/tm2613616d5_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-10T13:00:19.000Z",
+        "date": "2026-06-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926072140/tm2613616d4_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-22T20:12:53.000Z",
+        "date": "2026-05-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926065717/tm2614288d1_8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-04-29T22:48:09.000Z",
+        "date": "2026-04-30",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000014/amzn-20260331.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Amazon · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-29T20:18:55.000Z",
+        "date": "2026-04-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000012/amzn-20260429.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:51:04.163330+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0001018724.json"
+  },
+  "GOOGL": {
+    "symbol": "GOOGL",
+    "items": [
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-11-05T21:10:44.000Z",
+        "date": "2026-11-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526449835/d174184d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-10-29T00:29:06.000Z",
+        "date": "2026-10-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-28T20:01:33.000Z",
+        "date": "2026-10-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/goog-20261028.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-08-10T20:10:48.000Z",
+        "date": "2026-08-10",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526342390/d171253d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-07-23T01:15:54.000Z",
+        "date": "2026-07-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/goog-20260630.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-22T20:01:36.000Z",
+        "date": "2026-07-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/goog-20260722.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-11T20:17:04.000Z",
+        "date": "2026-06-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526267578/d57679d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-05T20:52:38.000Z",
+        "date": "2026-06-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526259830/d36818d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-05T20:40:20.000Z",
+        "date": "2026-06-05",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000059/goog-20260602.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-06-04T21:07:39.000Z",
+        "date": "2026-06-04",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526257724/d83560d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-21T20:25:10.000Z",
+        "date": "2026-05-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526234488/d144566d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Alphabet · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-05-11T20:45:29.000Z",
+        "date": "2026-05-11",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526216986/d109021d8k.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:51:04.211406+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0001652044.json"
+  },
+  "TSLA": {
+    "symbol": "TSLA",
+    "items": [
+      {
+        "title": "Tesla · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-10-22T00:12:41.000Z",
+        "date": "2026-10-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-21T20:41:42.000Z",
+        "date": "2026-10-21",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066738/tsla-20261021.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-10-02T13:04:26.000Z",
+        "date": "2026-10-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026064366/tsla-20261002.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-09-29T20:38:50.000Z",
+        "date": "2026-09-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/tsla-20260929.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-07-23T01:02:31.000Z",
+        "date": "2026-07-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049270/tsla-20260630.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-22T20:35:52.000Z",
+        "date": "2026-07-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026049213/tsla-20260722.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-07-02T13:01:26.000Z",
+        "date": "2026-07-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026046717/tsla-20260702.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 10-Q",
+        "form": "10-Q",
+        "publishedAt": "2026-04-23T01:43:00.000Z",
+        "date": "2026-04-23",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026673/tsla-20260331.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-22T20:10:44.000Z",
+        "date": "2026-04-22",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026026551/tsla-20260422.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-04-02T13:07:13.000Z",
+        "date": "2026-04-02",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026022956/tsla-20260402.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 10-K",
+        "form": "10-K",
+        "publishedAt": "2026-01-29T01:55:03.000Z",
+        "date": "2026-01-29",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm",
+        "source": "SEC EDGAR · 官方披露"
+      },
+      {
+        "title": "Tesla · 8-K",
+        "form": "8-K",
+        "publishedAt": "2026-01-28T21:11:04.000Z",
+        "date": "2026-01-28",
+        "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003837/tsla-20260128.htm",
+        "source": "SEC EDGAR · 官方披露"
+      }
+    ],
+    "source": "SEC EDGAR · 已核验采集快照",
+    "fetchedAt": "2026-11-15T08:51:04.171211+00:00",
+    "snapshot": true,
+    "cached": true,
+    "origin": "https://data.sec.gov/submissions/CIK0001318605.json"
+  }
+}

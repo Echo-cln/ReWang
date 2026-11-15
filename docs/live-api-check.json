@@ -1,0 +1,79 @@
+[
+  {
+    "symbol": "AAPL",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "MSFT",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "NVDA",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "AMZN",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "GOOGL",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "TSLA",
+    "section": "prices",
+    "http": 200,
+    "count": 251,
+    "mode": "live"
+  },
+  {
+    "symbol": "AAPL",
+    "section": "filings",
+    "http": 200,
+    "count": 12,
+    "mode": "issuer"
+  },
+  {
+    "symbol": "MSFT",
+    "section": "filings",
+    "http": 200,
+    "count": 10,
+    "mode": "issuer"
+  },
+  {
+    "symbol": "NVDA",
+    "section": "filings",
+    "http": 200,
+    "count": 12,
+    "mode": "issuer"
+  },
+  {
+    "symbol": "AMZN",
+    "section": "filings",
+    "http": 200,
+    "count": 12,
+    "mode": "verified_snapshot"
+  },
+  {
+    "symbol": "AAPL",
+    "section": "news",
+    "http": 200,
+    "count": 12,
+    "mode": "live"
+  }
+]

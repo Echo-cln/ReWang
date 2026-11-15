@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {startPaper,execute,paperStats,historicalBars} from '../lib/paper.ts';
+const p=startPaper('AAPL','history','2025-01-02');
+const b=execute(p,'buy',10,100,'2025-01-02','Test rationale');
+assert.equal(b.cash,98999);assert.equal(b.cost,1001);assert.equal(b.quantity,10);assert.equal(paperStats(b,100).assets,99999);
+const s=execute(b,'sell',5,120,'2025-01-03','Exit half');
+assert.equal(s.cash,99598);assert.equal(s.cost,500.5);assert.equal(s.realized,98.5);assert.equal(paperStats(s,120).pnl,198);assert.equal(s.orders.length,2);assert.equal(p.orders.length,0);
+for(const [side,qty,price,date,reason] of [['sell',11,100,'2025-01-02','x'],['buy',10000,100,'2025-01-02','x'],['buy',1.5,100,'2025-01-02','x'],['buy',1,NaN,'2025-01-02','x'],['buy',1,100,'2025-01-01','x'],['buy',1,100,'2025-01-02','']])assert.throws(()=>execute(b,side,qty,price,date,reason));
+assert.equal(historicalBars([{date:'2025-01-01'},{date:'2025-01-02'},{date:'2025-01-03'}],'2025-01-02').length,2);
+console.log('PASS: cash, fees, holdings, realized P&L, invalid orders and future-price cutoff');
+const {riskProfile}=await import('../lib/paper.ts');
+const risk=riskProfile([{date:'1',close:100},{date:'2',close:110},{date:'3',close:99}]);assert.equal(risk.returnPct,-1.0000000000000009);assert.ok(Math.abs(risk.drawdownPct+10)<.0001);assert.equal(riskProfile([]),null);console.log('PASS: visible-window return, drawdown, volatility and insufficient samples');

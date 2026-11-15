@@ -1,8 +1,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/root" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical" android:background="#FAF8F3">
- <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:padding="20dp" android:orientation="horizontal" android:gravity="center_vertical">
-  <TextView android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="回望" android:textSize="28sp" android:textStyle="bold" android:textColor="#263E4E"/>
-  <TextView android:id="@+id/mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="原生客户端 · 演示" android:textColor="#A26349" android:textSize="12sp"/>
+ <LinearLayout android:layout_width="match_parent" android:layout_height="64dp" android:paddingHorizontal="24dp" android:orientation="horizontal" android:gravity="center_vertical">
+  <TextView android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content" android:text="回望" android:textSize="26sp" android:fontFamily="serif" android:textStyle="bold" android:textColor="#263E4E"/>
+  <TextView android:id="@+id/mode" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="原生客户端" android:textColor="#A26349" android:textSize="10sp"/>
  </LinearLayout>
- <HorizontalScrollView android:layout_width="match_parent" android:layout_height="wrap_content" android:scrollbars="none"><LinearLayout android:id="@+id/navigation" android:layout_width="wrap_content" android:layout_height="wrap_content" android:orientation="horizontal" android:paddingHorizontal="12dp"/></HorizontalScrollView>
- <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:fillViewport="true"><LinearLayout android:id="@+id/content" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:padding="22dp"/></ScrollView>
+ <ScrollView android:id="@+id/scroll" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1" android:fillViewport="true"><LinearLayout android:id="@+id/content" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical" android:paddingHorizontal="24dp" android:paddingTop="16dp" android:paddingBottom="32dp"/></ScrollView>
+ <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#E1DBD0"/>
+ <LinearLayout android:id="@+id/navigation" android:layout_width="match_parent" android:layout_height="68dp" android:orientation="horizontal" android:gravity="center_vertical"/>
 </LinearLayout>

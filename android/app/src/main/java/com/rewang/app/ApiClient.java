@@ -8,14 +8,14 @@ import android.os.*;
 /** REST adapter. The team backend may be Java, Python, Node, or another language. */
 public final class ApiClient {
  public interface Callback { void complete(JSONObject body, String error); }
- private final ExecutorService executor=Executors.newSingleThreadExecutor();
+ private final ExecutorService executor=Executors.newFixedThreadPool(3);
  private final Handler main=new Handler(Looper.getMainLooper());
  public void request(String base,String path,String method,String token,JSONObject payload,Callback cb){
   executor.execute(()->{JSONObject result=null;String error=null;HttpURLConnection connection=null;
    try { if(!base.startsWith("https://"))throw new Exception("正式接口需要 HTTPS 地址");
     connection=(HttpURLConnection)new URL(base.replaceAll("/+$","")+path).openConnection();
     connection.setRequestMethod(method);connection.setConnectTimeout(15000);connection.setReadTimeout(30000);
-    connection.setRequestProperty("Accept","application/json");
+    connection.setRequestProperty("Accept","application/json");connection.setRequestProperty("User-Agent","ReWang-Android/1.0");
     if(!token.isEmpty())connection.setRequestProperty("Authorization","Bearer "+token);
     if(payload!=null){connection.setDoOutput(true);connection.setRequestProperty("Content-Type","application/json");try(var out=connection.getOutputStream()){out.write(payload.toString().getBytes(StandardCharsets.UTF_8));}}
     int code=connection.getResponseCode();var stream=code>=400?connection.getErrorStream():connection.getInputStream();

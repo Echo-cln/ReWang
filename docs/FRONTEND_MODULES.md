@@ -1,3 +1,5 @@
+> **2026-11-15 增量说明：**已补充真实行情 API、新闻/公告回退、原生市场模拟流程、Gradle Wrapper和调试包构建。下文部分旧状态仅描述早期版本；以 [真实市场与Android交付](REAL_MARKET_AND_ANDROID.md) 为当前依据。
+
 # 前端逐页、逐模块说明
 
 本说明中的“参考”指 GitHub `web/`；“Android”指当前 `MainActivity.java`。模块是业务区块，不一定对应独立 Activity 或数据库表。

@@ -1,0 +1,4 @@
+import {instruments,marketFeed} from '../../../lib/market-feed';
+export const runtime='edge';
+const headers={'Access-Control-Allow-Origin':'*','Cache-Control':'public, max-age=30','X-Content-Type-Options':'nosniff'};
+export async function GET(request:Request){const p=new URL(request.url).searchParams;const symbol=(p.get('symbol')||'AAPL').toUpperCase(),section=p.get('section')||'prices',range=p.get('range')||'1y';if(!instruments.some(x=>x.symbol===symbol)||!['prices','news','filings'].includes(section)||!['1mo','3mo','6mo','1y','2y','5y'].includes(range))return Response.json({error:'无效参数'},{status:400,headers});try{return Response.json(await marketFeed(symbol,section,range),{headers});}catch(e){return Response.json({error:e instanceof Error?e.message:'上游不可用',symbol,section,sourceStatus:'unavailable',retryAfterSeconds:60},{status:502,headers:{...headers,'Cache-Control':'no-store','Retry-After':'60'}});}}
