@@ -6,7 +6,7 @@
 
 [统一手机交互入口](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/mobile) · [360/390/430px响应式预览](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/mobile/device)
 
-默认首页为行情，主导航：行情 / 分析 / 模拟 / 研究 / 我的。全部页面可从右上角功能目录找到。
+默认入口为独立首页，主导航：首页 / 行情 / 分析 / 模拟 / 我的。模型与AI位于分析页的二级入口。全部页面可从右上角功能目录找到。
 
 - 44支真实名称股票，报价、指数和排名为合成演示；搜索、行业、排行、自选、详情日K。
 - A股最多3股，20/60日报价区间真实计算收益、波动、回撤和相关性。
