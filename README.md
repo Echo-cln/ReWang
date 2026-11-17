@@ -2,7 +2,22 @@
 
 投资数据分析、历史决策模拟与复盘。最终客户端为 **Android 原生 Java + XML**；Web 提供交互参考和公开只读市场 API。
 
-## 现在从这里开始
+## 手机端为主入口（2026-11-17更新）
+
+[统一手机交互入口](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/mobile) · [360/390/430px响应式预览](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/mobile/device)
+
+默认首页为行情，主导航：行情 / 分析 / 模拟 / 研究 / 我的。全部页面可从右上角功能目录找到。
+
+- 44支真实名称股票，报价、指数和排名为合成演示；搜索、行业、排行、自选、详情日K。
+- A股最多3股，20/60日报价区间真实计算收益、波动、回撤和相关性。
+- 32股历史模拟；载入完整演示账户可看到2支持仓、3笔成交、理由及买入持有规则对照。
+- 手机模型实验分步配置/评估，加载、取消、失败/重试及JSON导出；AI为本地模板。
+
+**以上是移动端Web交互参考，不能冒充原生Android完成。** Android当前仍有界面和功能差距，真实登录/持久后端/模型/LLM尚待集成。后端可按下列接口契约并行开发。
+
+[完整手机端说明、按钮到API映射、实现状态](docs/MOBILE_FRONTEND_HANDOFF.md)
+
+## 其他入口
 
 [真实市场与手机模拟](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/market) · [桌面研究参考](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/) · [分析中心手机预览](https://rewang-investment-lab.tender-ibis-1699.chatgpt.site/mobile)
 

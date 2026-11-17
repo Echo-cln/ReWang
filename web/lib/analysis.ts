@@ -97,7 +97,7 @@ export function baseline(flows: Flow[], prices: Price[], symbol: string): {serie
   return {series:out,error:null};
 }
 export function syntheticPrices() {
-  const names=[{symbol:"DEMO_A",name:"山岚指数（演示）",base:10200},{symbol:"DEMO_B",name:"潮汐稳健（演示）",base:8800},{symbol:"DEMO_C",name:"星河成长（演示）",base:13500}];
+  const names=[{symbol:"AAPL",name:"苹果",base:10200},{symbol:"MSFT",name:"微软",base:8800},{symbol:"NVDA",name:"英伟达",base:13500}];
   const dates:string[]=[];
   for(let t=Date.parse("2026-08-17T00:00:00Z");t<=Date.parse("2026-11-06T00:00:00Z");t+=86400000) {
     const d=new Date(t);if(d.getUTCDay()!==0 && d.getUTCDay()!==6) dates.push(d.toISOString().slice(0,10));

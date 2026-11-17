@@ -26,6 +26,9 @@ async function nextSequence(accountId:number) {const a=await one<{n:number}>("SE
 const now=()=>new Date().toISOString();
 async function seedSyntheticPrices() {
  const data=syntheticPrices(),created=now();
+ // Real ticker names in demo UI must not mix synthetic rows into imported datasets.
+ for(const instrument of data.instruments){const existing=await one<Row>("SELECT data_kind FROM instruments WHERE symbol=?",instrument.symbol);if(existing&&existing.data_kind!=="synthetic")throw new Error("该股票已有非演示数据，禁止混入模拟报价；请使用独立演示数据集。");const mixed=await one<Row>("SELECT source FROM daily_prices WHERE symbol=? AND source<>? LIMIT 1",instrument.symbol,"SYNTHETIC_DEMO");if(mixed)throw new Error("该股票包含其他来源价格，演示案例已停止导入以避免混用。");}
+
  const stmts=[...data.instruments.map(i=>DB.prepare("INSERT OR IGNORE INTO instruments(symbol,name,currency,price_type,source,data_kind,imported_at) VALUES(?,?,?,?,?,?,?)").bind(i.symbol,i.name,"USD","synthetic_close","SYNTHETIC_DEMO","synthetic",created)),...data.prices.map(p=>DB.prepare("INSERT OR IGNORE INTO daily_prices(symbol,price_date,close_minor,source) VALUES(?,?,?,?)").bind(p.symbol,p.price_date,p.close_minor,p.source))];
  for(let k=0;k<stmts.length;k+=80)await DB.batch(stmts.slice(k,k+80));
  return data.prices.length;

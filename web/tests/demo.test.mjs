@@ -20,7 +20,7 @@ test('complete demo fills every analysis surface with a coherent synthetic histo
   assert.ok(history.length > 20);
   assert.ok(history.at(-1).cashMinor > 0);
   assert.equal(Object.entries(history.at(-1).holdings).filter(([, n]) => n > 0).length, 3);
-  const comparison = baseline(f, market.prices, 'DEMO_A');
+  const comparison = baseline(f, market.prices, 'AAPL');
   assert.equal(comparison.error, null);
   assert.ok(comparison.series.length > 20);
   assert.notEqual(comparison.series.at(-1).assetsMinor, replay(f, t, market.prices, true).at(-1).assetsMinor);

@@ -1,3 +1,5 @@
+> 2026-11-17：当前仓库APK是旧版构建，未包含新版统一手机端外观。不要把Web原型当成APK效果。原生源代码包含行情目录，但本轮未进行模拟器/真机复验；按android/README及交接文档重新构建验收。
+
 # Android 测试包
 
 `rewang-debug.apk` 来自本仓库 `android/` 原生 Java/XML 工程的 `assembleDebug`，仅供课程测试。
